@@ -11,7 +11,11 @@
     
     <ui-gmap-google-map center='map.center' zoom='map.zoom'>
       <!-- <ui-gmap-marker coords='testMarker.coords' idkey='testMarker.id'></ui-gmap-marker> -->
-      <ui-gmap-marker ng-repeat='marker in testMarkerList' coords='marker.coords' idkey='marker.id'></ui-gmap-marker>
+      <ui-gmap-marker ng-repeat='marker in testMarkerList' coords='marker.coords' idkey='marker.id'>
+        <ui-gmap-window isIconVisibleOnClick='true'>
+          {{marker.id}}
+        </ui-gmap-window>
+      </ui-gmap-marker>
 
     </ui-gmap-google-map>
   </div>  
