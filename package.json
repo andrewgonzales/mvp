@@ -1,0 +1,22 @@
+{
+  "name": "2015-08-mvp",
+  "version": "1.0.0",
+  "description": "SF Bike Parking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgonzales/2015-08-mvp.git"
+  },
+  "author": "Andrew Gonzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgonzales/2015-08-mvp/issues"
+  },
+  "homepage": "https://github.com/andrewgonzales/2015-08-mvp#readme",
+  "dependencies": {
+    "angular": "^1.4.6"
+  }
+}

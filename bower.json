@@ -1,0 +1,23 @@
+{
+  "name": "2015-08-mvp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andrewgonzales/2015-08-mvp",
+  "authors": [
+    "Andrew Gonzales <andrewmartingonzales@gmail.com>"
+  ],
+  "description": "SF Bike Parking App",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-google-maps": "~2.2.1"
+  }
+}
