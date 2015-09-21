@@ -3,8 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <title>SF Bike Parking</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
-<body>
-  <h1>SF Bike Parking</h1>  
+<body ng-app='bikeParking'>
+  <h1>SF Bike Parking</h1>
+  <div class="container" ng-controller='BikeController'>
+    
+    <google-map center='map.center' zoom='map.zoom'></google-map>
+  </div>  
+
+  <script src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
+  <script src="../node_modules/angular/angular.min.js"></script>
+  <script src="../bower_components/angular-google-maps/dist/angular-google-maps.min.js"></script>
+  <script src="../bower_components/angular-simple-logger/dist/angular-simple-logger.min.js"></script>
+  <script src="../bower_components/lodash/lodash.min.js"></script>
+  <script src="app/app.js"></script>
 </body>
 </html>
