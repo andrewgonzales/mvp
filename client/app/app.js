@@ -8,4 +8,22 @@ bikeApp.controller('BikeController', function($scope){
     coords: {latitude: 37.779, longitude: -122.419},
     click: console.log('clicked a marker')
   };
+
+  $scope.testMarkerList = [
+    {
+    id: 1,
+    coords: {latitude: 37.779, longitude: -122.419}
+    },
+
+    {
+    id: 2,
+    coords: {latitude: 37.779, longitude: -122.439}
+    },
+
+     {
+    id: 3,
+    coords: {latitude: 37.779, longitude: -122.459}
+    }
+  ];
+
 });
