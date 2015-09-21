@@ -15,7 +15,16 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
- 
+ SF Bike Parking App
+ For San Francisco bicyclists in search of parking.
+
+ This app creates a map of free public bicycle parking spots. By providing location-based options,
+ a bicyclist will no longer have to walk up and down the block to find a rack. All a user has to do is load their current location in the city, and SF Bike Parking will display nearby racks, along with associated information like the address and number of spaces. 
+
+ "This product is a game changer for the cycling set," says Andrew Gonzales, CTO of BikeApps. "By using the latest web technologies to compile city data to map locations, we've made a user-friendly tool that makes life easier for bikers." As one recent user put it, "I've had a couple of bikes stolen because I used to have such a hard time finding a bike rack in the city. No more! Thanks SF Bike Parking!"
+
+ Look out for SF Bike Parking tomorrow, with new features in the horizon.
+
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
