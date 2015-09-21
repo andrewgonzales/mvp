@@ -1,8 +1,10 @@
 var express = require('express');
 var app = express();
+app.use(express.static(__dirname + '/../client'));
 
 app.get('/', function (req, res) {
-  res.send('You got served');
+  console.log(__dirname);
+  res.send(__dirname );
 });
 
 var port = 8800;
