@@ -20,6 +20,8 @@
     "angular": "^1.4.6",
     "express": "^4.13.3",
     "fs": "0.0.2",
+    "mongodb": "^2.0.43",
+    "mongoose": "^4.1.8",
     "nodemon": "^1.7.0",
     "request": "^2.63.0"
   }
