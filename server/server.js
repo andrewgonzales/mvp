@@ -10,12 +10,6 @@ if(!Space.findOne({id: 0})){
   utils.saveData();  //fetch from API if local db empty
 }
 
-app.get('/', function (req, res) {
-  // utils.saveData();
-  utils.loadFromDB(req,res);
-  // res.send('index.html');
-});
-
 app.get('/data', function (req, res){
   utils.loadFromDB(req,res);
 });
