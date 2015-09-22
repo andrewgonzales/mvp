@@ -6,7 +6,7 @@ bikeApp.controller('BikeController', function($scope){
   $scope.testMarker = {
     id: 0,
     coords: {latitude: 37.779, longitude: -122.419},
-    click: console.log('clicked a marker')
+    // click: console.log('clicked a marker')
   };
 
   $scope.testMarkerList = [
