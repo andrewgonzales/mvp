@@ -23,5 +23,9 @@ bikeApp.controller('BikeController', function($scope){
     coords: {latitude: 37.779, longitude: -122.459}
     }
   ];
+  // $scope.spacesList = SpacesFactory.spaces;
 
 });
+// {latitude: 37.779, longitude: -122.479} need
+// {"latitude":"37.78346622","longitude":"-122.42177834"} getting
+

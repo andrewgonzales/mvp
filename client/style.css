@@ -2,3 +2,7 @@
 .angular-google-map-container {
   height: 300px;
 }
+
+.angular-google-map-window {
+  height: 20px;
+}

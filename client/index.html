@@ -18,10 +18,28 @@
       </ui-gmap-marker>
 
 
-      <div class="container" ng-controller='SpacesController'>
-        <ui-gmap-marker coords='{latitude: 37.779, longitude: -122.479}' idkey='10'>
+      <!-- <div class="container" ng-controller='SpacesController'>
+        <ui-gmap-marker ng-repeat='space in spaces'coords='space.coords' idkey='space.id'>
           <ui-gmap-window isIconVisibleOnClick='true'>
-            {{spaces[0]}}
+            <p>Address: {{space.address}} <br>
+            Racks: {{space.racks}} <br>
+            Spaces:{{space.spots}} </p>
+          </ui-gmap-window>
+        </ui-gmap-marker>
+      </div>
+
+    </ui-gmap-google-map>
+  </div>   -->
+
+  <div class="container" ng-controller='SpacesController'>
+    {{spaces[0]}}
+        <ui-gmap-marker  coords='spaces[0].coords' idkey='spaces[0].id'>
+          <ui-gmap-window isIconVisibleOnClick='true'>
+            <p>
+            <!-- Coords: {{spaces[0].coords}} <br> -->
+            Address: {{spaces[0].address}} <br>
+            Racks: {{spaces[0].racks}} <br>
+            Spaces:{{spaces[0].spots}} </p>
           </ui-gmap-window>
         </ui-gmap-marker>
       </div>
