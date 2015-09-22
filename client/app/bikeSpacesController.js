@@ -8,30 +8,45 @@ var endpoint ='https://data.sfgov.org/resource/w969-5mn4.json';
 //           $scope.spaces = res.data;
 //         });
 // });
-
+console.log()
 app.controller('SpacesController', function($scope, $http) {
   // $scope.spaces = [];
   $scope.spaces = [];
-  $http.get(endpoint)
-       .then(function(res){
-          for(var i = 50; i<100; i++){
-            // debugger;
-            var pertinent = {};
-            pertinent = {
-              id: i,
-              address: res.data[i].yr_inst,
-              racks: res.data[i].racks,
-              spots: res.data[i].spaces,
-              coords: {latitude: Number(res.data[i].latitude.latitude), longitude: Number(res.data[i].latitude.longitude)}
-            };
-            $scope.spaces.push(pertinent);
-          }
 
-        });
-       // console.log($scope.spaces);
-    // return spaces;
-    // $scope.spaces = $scope.spaces.slice(0,10);
-    // console.log($scope.spaces);
+
+  // $http.get(endpoint)
+  //      .then(function(res){
+  //         for(var i = 0; i<50; i++){
+  //           // debugger;
+  //           var pertinent = {};
+  //           pertinent = {
+  //             id: i,
+  //             address: res.data[i].yr_inst,
+  //             racks: res.data[i].racks,
+  //             spots: res.data[i].spaces,
+  //             coords: {latitude: Number(res.data[i].latitude.latitude), longitude: Number(res.data[i].latitude.longitude)}
+  //           };
+  //           $scope.spaces.push(pertinent);
+  //         }
+
+  //       });
+
+  $http.get('/data')
+    .then(function(res){
+      for(var i = 0; i<100; i++){
+        var pertinent = {};
+        pertinent = {
+          id: i,
+          address: res.data[i].address,
+          racks: res.data[i].racks,
+          spots: res.data[i].spaces,
+          coords: res.data[i].coords
+        };
+        $scope.spaces.push(pertinent);
+       
+      }
+    });
+
 });
 
 //want factory that outputs a marker fitting template in app.js

@@ -1,22 +1,26 @@
 var express = require('express');
 var utils = require('./utils');
 var fs = require('fs');
+var Space = require('../db/models/space');
+
 var app = express();
 app.use(express.static(__dirname + '/../client'));
 
-utils.getData();
+
+
+utils.saveData();
 
 app.get('/', function (req, res) {
-  utils.getData();
-  res.send('index.html');
+  // utils.saveData();
+  utils.loadFromDB(req,res);
+  // res.send('index.html');
 });
 
-// app.get('/data', function (req, res) {
-//   var data = fs.readFile(__dirname + '/../db/cityData.js', function (err, data) {
-//     if (err) throw err;
-//     res.send(data);
-//   });
-// });
+app.get('/data', function (req, res){
+  utils.loadFromDB(req,res);
+});
+
+
 
 
 var port = 8800;
