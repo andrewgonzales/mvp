@@ -17,6 +17,15 @@
         </ui-gmap-window>
       </ui-gmap-marker>
 
+
+      <div class="container" ng-controller='SpacesController'>
+        <ui-gmap-marker coords='{latitude: 37.779, longitude: -122.479}' idkey='10'>
+          <ui-gmap-window isIconVisibleOnClick='true'>
+            {{spaces[0]}}
+          </ui-gmap-window>
+        </ui-gmap-marker>
+      </div>
+
     </ui-gmap-google-map>
   </div>  
 
@@ -26,6 +35,7 @@
   <script src="lib/angular-simple-logger/dist/angular-simple-logger.min.js"></script>
   <script src="lib/lodash/lodash.min.js"></script>
   <script src="app/app.js"></script>
+  <script src="app/bikeSpacesController.js"></script>
   <!-- // <script src="db/cityData.js"></script> -->
 </body>
 </html>
