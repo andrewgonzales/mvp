@@ -6,9 +6,9 @@ var Space = require('../db/models/space');
 var app = express();
 app.use(express.static(__dirname + '/../client'));
 
-
-
-utils.saveData();
+if(!Space.findOne({id: 0})){
+  utils.saveData();  //fetch from API if local db empty
+}
 
 app.get('/', function (req, res) {
   // utils.saveData();
