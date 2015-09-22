@@ -14,7 +14,7 @@ app.controller('SpacesController', function($scope, $http) {
   $scope.spaces = [];
   $http.get(endpoint)
        .then(function(res){
-          for(var i = 0; i<res.data.length; i++){
+          for(var i = 50; i<100; i++){
             // debugger;
             var pertinent = {};
             pertinent = {
@@ -30,7 +30,7 @@ app.controller('SpacesController', function($scope, $http) {
         });
        // console.log($scope.spaces);
     // return spaces;
-    $scope.spaces = $scope.spaces.slice(0,10);
+    // $scope.spaces = $scope.spaces.slice(0,10);
     // console.log($scope.spaces);
 });
 

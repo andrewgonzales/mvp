@@ -27,3 +27,6 @@ var server = app.listen(port, 'localhost', function () {
 
 
 
+//GEOCODING API KEY
+//AIzaSyAK0J2yp4RQDY6gLVAINzDd_oKKzR5TfFc
+// http://maps.googleapis.com/maps/api/geocode/output?parameters

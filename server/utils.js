@@ -1,7 +1,7 @@
 var fs = require('fs');
 var request = require('request');
 
-exports.endpoint = 'https://data.sfgov.org/resource/w969-5mn4.json';
+exports.endpoint = 'https://data.sfgov.org/resource/w969-5mn4.json?$limit=3000';
 
 exports.data = {};
 exports.getData = function() {
@@ -18,3 +18,4 @@ exports.getData = function() {
 };
 
 
+exports.getData();

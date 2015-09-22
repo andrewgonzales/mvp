@@ -15998,4 +15998,24324 @@
     "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
   }
 }
+, {
+  "placement" : "SW",
+  "addr_num" : "SPUR",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "654 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401235",
+    "latitude" : "37.787183",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Seventy8",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "78 29TH ST",
+  "street_name" : "29TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4222756",
+    "latitude" : "37.74417137",
+    "human_address" : "{\"address\":\"29TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "79 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400535",
+    "latitude" : "37.78789",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MadKat",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "915 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4502137",
+    "latitude" : "37.76560156",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "House of Nanking",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "919 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405384",
+    "latitude" : "37.796439",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cole Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "956 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44945099",
+    "latitude" : "37.76536883",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "97 COLLINGWOOD ST",
+  "street_name" : "COLLINGWOOD",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43590174",
+    "latitude" : "37.7610279",
+    "human_address" : "{\"address\":\"COLLINGWOOD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Duboce Park",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "None",
+  "street_name" : "DUBOCE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43282",
+    "latitude" : "37.76934",
+    "human_address" : "{\"address\":\"DUBOCE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1016 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41516011",
+    "latitude" : "37.8039658",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UPS Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1032 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.469133",
+    "latitude" : "37.764163",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "110 JULIAN AVE",
+  "street_name" : "JULIAN",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421068",
+    "latitude" : "37.766278",
+    "human_address" : "{\"address\":\"JULIAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "118 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400427",
+    "latitude" : "37.787042",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Park Chow",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1240 09TH AVE",
+  "street_name" : "09TH AVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46606",
+    "latitude" : "37.765156",
+    "human_address" : "{\"address\":\"09TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walter-Adams Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1262 09TH AVE",
+  "street_name" : "09TH AVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466036",
+    "latitude" : "37.764815",
+    "human_address" : "{\"address\":\"09TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kiki Japanese Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1269 09TH AVE",
+  "street_name" : "09TH AVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466684",
+    "latitude" : "37.764652",
+    "human_address" : "{\"address\":\"09TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Urban Bazaar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1371 09TH AVE",
+  "street_name" : "09TH AVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466548",
+    "latitude" : "37.762716",
+    "human_address" : "{\"address\":\"09TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Aqua Spa",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "14 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.459487",
+    "latitude" : "37.783399",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1417 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420131",
+    "latitude" : "37.750206",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco International Hostel",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "142 MASON ST",
+  "street_name" : "MASON",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409359",
+    "latitude" : "37.784958",
+    "human_address" : "{\"address\":\"MASON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Big Think Studios",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1426 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39719562",
+    "latitude" : "37.76266262",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1500 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412577",
+    "latitude" : "37.746812",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rickshaw Shop",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "155 FELL ST",
+  "street_name" : "FELL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42046",
+    "latitude" : "37.775985",
+    "human_address" : "{\"address\":\"FELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1550 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410367",
+    "latitude" : "37.799024",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1560 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410405",
+    "latitude" : "37.79921",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bayview Hunter Point Foundation",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1625 CARROLL AVE",
+  "street_name" : "CARROLL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393575",
+    "latitude" : "37.725074",
+    "human_address" : "{\"address\":\"CARROLL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1651 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421117",
+    "latitude" : "37.773213",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1657 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411013",
+    "latitude" : "37.799948",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1665 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449896",
+    "latitude" : "37.769429",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1685 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450391",
+    "latitude" : "37.769366",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Extreme Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1730 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432943",
+    "latitude" : "37.785695",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sunshine Wine & Liquor",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1754 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.451176",
+    "latitude" : "37.769598",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Citrus Club",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1790 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.451628",
+    "latitude" : "37.769645",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Parada 22",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1805 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452033",
+    "latitude" : "37.769123",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Shaxul Records",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1816 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45229",
+    "latitude" : "37.76956",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yoga Works",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1823 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44043",
+    "latitude" : "37.786437",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "183 GOLDEN GATE AVE",
+  "street_name" : "GOLDEN GATE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413557",
+    "latitude" : "37.781668",
+    "human_address" : "{\"address\":\"GOLDEN GATE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Amoeba Music",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1855 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45262",
+    "latitude" : "37.768922",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "20 FRANKLIN ST",
+  "street_name" : "FRANKLIN",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420535",
+    "latitude" : "37.774578",
+    "human_address" : "{\"address\":\"FRANKLIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Elizabeth Charles",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2056 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433583",
+    "latitude" : "37.788698",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2112 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43362",
+    "latitude" : "37.78932",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2125 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411897",
+    "latitude" : "37.804348",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "dental office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "219 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4616",
+    "latitude" : "37.78283",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Crepevine",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2301 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434426",
+    "latitude" : "37.790939",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2330 TAYLOR ST",
+  "street_name" : "TAYLOR",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4146",
+    "latitude" : "37.804025",
+    "human_address" : "{\"address\":\"TAYLOR\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Curbside Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2417 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434053",
+    "latitude" : "37.788689",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sparky's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "242 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429141",
+    "latitude" : "37.766628",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thorough Bread& Pastry",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "248 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429141",
+    "latitude" : "37.766628",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lennon Rehearsal & Music Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "266 DORE ST",
+  "street_name" : "DORE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40974",
+    "latitude" : "37.771061",
+    "human_address" : "{\"address\":\"DORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Underglass Framing",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "268 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429082",
+    "latitude" : "37.766375",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Shear Bliss",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "275 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422956",
+    "latitude" : "37.775672",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2788 DIAMOND ST",
+  "street_name" : "DIAMOND",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434008",
+    "latitude" : "37.734776",
+    "human_address" : "{\"address\":\"DIAMOND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2815 DIAMOND ST",
+  "street_name" : "DIAMOND",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433656",
+    "latitude" : "37.733985",
+    "human_address" : "{\"address\":\"DIAMOND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rosamunde Sausage Catering",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2832 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418755",
+    "latitude" : "37.751518",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nueva Libreria Mexico",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2886 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418649",
+    "latitude" : "37.750796",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "302 MONTCALM ST",
+  "street_name" : "MONTCALM",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409227",
+    "latitude" : "37.745856",
+    "human_address" : "{\"address\":\"MONTCALM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pancho Villa Tacqueria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3071 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421082",
+    "latitude" : "37.764696",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Malai Thai restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3189 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42364107",
+    "latitude" : "37.76452199",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Knockout",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3223 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419787",
+    "latitude" : "37.745082",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Barnets",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3235 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424884",
+    "latitude" : "37.764475",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3290 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.446722",
+    "latitude" : "37.788453",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3326 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44755",
+    "latitude" : "37.788333",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bibliohead Bookstore",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "334 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422669",
+    "latitude" : "37.776659",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "All Muffler Auto Service",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3420 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419986",
+    "latitude" : "37.762004",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "JavaSource Coffee House",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "343 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.463089",
+    "latitude" : "37.782813",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3435 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449289",
+    "latitude" : "37.787613",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3489 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450056",
+    "latitude" : "37.787659",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Funa-ya Japanese Cuisine (closed)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "354 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46315",
+    "latitude" : "37.783254",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3556 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.451366",
+    "latitude" : "37.787902",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3566 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.451498",
+    "latitude" : "37.787731",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Buster's Cheesesteak",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "366 COLUMBUS AVE",
+  "street_name" : "VALLEJO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40734823",
+    "latitude" : "37.7985649",
+    "human_address" : "{\"address\":\"VALLEJO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Vinyl Wine Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "369 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437401",
+    "latitude" : "37.772841",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "385 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422764",
+    "latitude" : "37.777604",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Does Your Mother Know?",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4141 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435907",
+    "latitude" : "37.760642",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Harvey Milk Civil Rights Academy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4235 19TH ST",
+  "street_name" : "19TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436447",
+    "latitude" : "37.758928",
+    "human_address" : "{\"address\":\"19TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Takara Sushi",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4243 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436846",
+    "latitude" : "37.760586",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Castro Nail Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "431 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434696",
+    "latitude" : "37.762013",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sing Lee laundry",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "445 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423686",
+    "latitude" : "37.77653",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Metreon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5 MURRAY ST",
+  "street_name" : "MURRAY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425854",
+    "latitude" : "37.733829",
+    "human_address" : "{\"address\":\"MURRAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hop Li Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5029 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391169",
+    "latitude" : "37.732624",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5030 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391769",
+    "latitude" : "37.732935",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "535 MASON ST",
+  "street_name" : "MASON",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410458",
+    "latitude" : "37.788678",
+    "human_address" : "{\"address\":\"MASON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "One Bush Plaza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "538 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400095",
+    "latitude" : "37.790358",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Developing Environments",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "540 ALABAMA ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41248936",
+    "latitude" : "37.76253195",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5411 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.477532",
+    "latitude" : "37.780111",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Best in Show",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "545 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434573",
+    "latitude" : "37.760181",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5654 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.480316",
+    "latitude" : "37.780557",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "570 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425974",
+    "latitude" : "37.777721",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sean",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "575 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425767",
+    "latitude" : "37.776264",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "594 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422043",
+    "latitude" : "37.763448",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Avetex Furniture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "6114 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.485117",
+    "latitude" : "37.780383",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Community Thrift Store",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "623 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421365",
+    "latitude" : "37.762781",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Independent",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "628 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43751",
+    "latitude" : "37.775533",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "65 TIFFANY AVE",
+  "street_name" : "TIFFANY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420554",
+    "latitude" : "37.745701",
+    "human_address" : "{\"address\":\"TIFFANY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Skin Deep",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "654 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40239",
+    "latitude" : "37.788533",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "655 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397774",
+    "latitude" : "37.784374",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "660 ALABAMA ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412334",
+    "latitude" : "37.760916",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Groove Merchant Records",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "687 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433432",
+    "latitude" : "37.771511",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SFA Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "701 11TH AVE",
+  "street_name" : "11TH AVE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46939521",
+    "latitude" : "37.77491802",
+    "human_address" : "{\"address\":\"11TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Fonda",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "712 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46554",
+    "latitude" : "37.764252",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Supercuts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "715 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.465532",
+    "latitude" : "37.763861",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "735 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403755",
+    "latitude" : "37.796216",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "760 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398972",
+    "latitude" : "37.781765",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Abode of Iyengar Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "765 MONTEREY BLVD",
+  "street_name" : "MONTEREY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452523",
+    "latitude" : "37.731236",
+    "human_address" : "{\"address\":\"MONTEREY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sheng Kee Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "816 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46669084",
+    "latitude" : "37.76427208",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Goodwill",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "820 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.468144",
+    "latitude" : "37.783024",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sterling Bank & Trust",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "825 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466669",
+    "latitude" : "37.763774",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Little Star Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "846 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437986",
+    "latitude" : "37.777538",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yama Sushi",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "850 HOLLOWAY AVE",
+  "street_name" : "HOLLOWAY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.462029",
+    "latitude" : "37.72198",
+    "human_address" : "{\"address\":\"HOLLOWAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "860 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402724",
+    "latitude" : "37.781102",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "90 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400932",
+    "latitude" : "37.787422",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "91 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40203",
+    "latitude" : "37.786554",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Purple Onion",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "910 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403722",
+    "latitude" : "37.797489",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sunset Hydrophonic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "949 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.476407",
+    "latitude" : "37.742844",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cole Valley Fitness",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "957 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45015198",
+    "latitude" : "37.76529578",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Rocca's Corner Tavern",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "957 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414608",
+    "latitude" : "37.803165",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chrome Industries",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "962 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2006",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421466",
+    "latitude" : "37.757498",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Bay Parks Maintenance Facility",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "451 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398",
+    "latitude" : "37.771499",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "CCSF Mission",
+  "spaces" : "20",
+  "racks" : "10",
+  "yr_inst" : "110 BARTLETT ST",
+  "street_name" : "22ND ST / BARTLETT",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42030418",
+    "latitude" : "37.75484683",
+    "human_address" : "{\"address\":\"22ND ST / BARTLETT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Intracorp San Francisco",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "310 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396241",
+    "latitude" : "37.77393",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Park Terrace",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "325 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396529",
+    "latitude" : "37.772772",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "335 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396308",
+    "latitude" : "37.772951",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "420 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399084",
+    "latitude" : "37.772009",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "428 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39908385",
+    "latitude" : "37.77200867",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "433 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2007",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398567",
+    "latitude" : "37.771654",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "California Academy of Sciences",
+  "spaces" : "88",
+  "racks" : "44",
+  "yr_inst" : "55 MUSIC CONCOURSE DR",
+  "street_name" : "MUSIC CONCOURSE / NANCY PELOSI DR",
+  "yr_installed" : "2008",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46686332",
+    "latitude" : "37.76988297",
+    "human_address" : "{\"address\":\"MUSIC CONCOURSE / NANCY PELOSI DR\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Luen Fat Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "110 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405782",
+    "latitude" : "37.712237",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "141 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406471",
+    "latitude" : "37.712026",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "UCSF Mission Bay / Helen Diller Cancer Center Courtyard",
+  "spaces" : "8",
+  "racks" : "2",
+  "yr_inst" : "1450 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39016",
+    "latitude" : "37.77012",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "G&K Grocery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "15 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404284",
+    "latitude" : "37.711178",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "159 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4069",
+    "latitude" : "37.712177",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "vacant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "166 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406636",
+    "latitude" : "37.712569",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "185 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407209",
+    "latitude" : "37.712278",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "laundromat",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "186 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407114",
+    "latitude" : "37.712667",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Visitacion Valley Library",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "201 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407886",
+    "latitude" : "37.712455",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sun Fai Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "30 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404308",
+    "latitude" : "37.711662",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hansan Interior",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "41 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404672",
+    "latitude" : "37.711329",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Visiticion Chinese Baptist Church",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "57 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405152",
+    "latitude" : "37.711502",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bank of America",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "6 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403821",
+    "latitude" : "37.711473",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "66 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404967",
+    "latitude" : "37.711919",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Visiticion Valley One Link Career Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "71 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405384",
+    "latitude" : "37.711592",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Buen Saborz",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "96 LELAND AVE",
+  "street_name" : "LELAND",
+  "yr_installed" : "2009",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405355",
+    "latitude" : "37.71207",
+    "human_address" : "{\"address\":\"LELAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "City Hall",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1 DR CARLTON B GOODLETT PL",
+  "street_name" : "POLK",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418817",
+    "latitude" : "37.779324",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Zoo",
+  "spaces" : "24",
+  "racks" : "12",
+  "yr_inst" : "1 ZOO RD",
+  "street_name" : "ZOO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50324",
+    "latitude" : "37.732909",
+    "human_address" : "{\"address\":\"ZOO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Department of Public Health",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "101 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418652",
+    "latitude" : "37.778128",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Department of Public Health",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "101 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418652",
+    "latitude" : "37.778128",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Show Dogs Sausages",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1020 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410989",
+    "latitude" : "37.782044",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Altano",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1026 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421372",
+    "latitude" : "37.756417",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "FoodLab / Renoir Hotel / Rio Grande Cafe / Trailhead",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1108 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41247",
+    "latitude" : "37.780901",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Andronico's Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1200 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.471168",
+    "latitude" : "37.764349",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "McDonald's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1201 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.455509",
+    "latitude" : "37.723447",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Garfield Square",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1271 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4126",
+    "latitude" : "37.74965",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Garfield Square",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1271 TREAT AVE",
+  "street_name" : "25TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41223561",
+    "latitude" : "37.75020058",
+    "human_address" : "{\"address\":\"25TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Circle Community Acupuncture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1351 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410613",
+    "latitude" : "37.771865",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fancy Wheat Field Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1362 STOCKTON ST",
+  "street_name" : "VALLEJO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408421",
+    "latitude" : "37.798432",
+    "human_address" : "{\"address\":\"VALLEJO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Magnolia Brewery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1398 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44512989",
+    "latitude" : "37.77040275",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chomp N' Swig Cafe (was Cafe Mereb)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1541 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.475929",
+    "latitude" : "37.782213",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Japantown Peace Plaza and Buchanan Mall",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1610 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43038",
+    "latitude" : "37.784969",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Underdog",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1634 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.475693",
+    "latitude" : "37.763789",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Underdog",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1634 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.475693",
+    "latitude" : "37.763789",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Matching Half Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1799 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.441426",
+    "latitude" : "37.777218",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Golden Gate Valley Branch Library",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1801 GREEN ST",
+  "street_name" : "GREEN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429023",
+    "latitude" : "37.796789",
+    "human_address" : "{\"address\":\"GREEN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Coffee Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1890 BRYANT ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41103404",
+    "latitude" : "37.76310691",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bend Yoga Studio",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1935 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448352",
+    "latitude" : "37.773364",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "201 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394083",
+    "latitude" : "37.774704",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Davies Symphony Hall",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "201 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419994",
+    "latitude" : "37.777441",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Boulange Cafe & Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2043 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434008",
+    "latitude" : "37.788466",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Citizen Chain Cyclery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2064 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41125279",
+    "latitude" : "37.80382297",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Stop Aids Project",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2128 15TH ST",
+  "street_name" : "15TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431783",
+    "latitude" : "37.766197",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sycamore, The",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2140 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419734",
+    "latitude" : "37.762785",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kaiser",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2238 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.440626",
+    "latitude" : "37.783512",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cole Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2254 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421808",
+    "latitude" : "37.797497",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clay Theatre",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2261 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43448",
+    "latitude" : "37.790456",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Taqueria Cancun",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2288 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419513",
+    "latitude" : "37.760471",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Progressive Grounds Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2301 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409301",
+    "latitude" : "37.757477",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Progressive Grounds Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2301 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409301",
+    "latitude" : "37.757477",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bikram Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2390 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419369",
+    "latitude" : "37.75877",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flour & Water Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2401 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412185",
+    "latitude" : "37.758923",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jose Coronado Playground",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2498 FOLSOM ST",
+  "street_name" : "21ST ST, FOLSOM ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4151059",
+    "latitude" : "37.75754628",
+    "human_address" : "{\"address\":\"21ST ST, FOLSOM ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sunnyside ElementaryáSchool",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "250 FOERSTER ST",
+  "street_name" : "FOERSTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448734",
+    "latitude" : "37.730444",
+    "human_address" : "{\"address\":\"FOERSTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sunnyside Elementary School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "250 FOERSTER ST",
+  "street_name" : "FOERSTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448734",
+    "latitude" : "37.730444",
+    "human_address" : "{\"address\":\"FOERSTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Foreign Cinema",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2534 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419261",
+    "latitude" : "37.756388",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Java Beach Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2650 SLOAT BLVD",
+  "street_name" : "45TH AVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50291",
+    "latitude" : "37.735689",
+    "human_address" : "{\"address\":\"45TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Java Beach Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2650 SLOAT BLVD",
+  "street_name" : "SLOAT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50291",
+    "latitude" : "37.735689",
+    "human_address" : "{\"address\":\"SLOAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Soccer Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2797 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414959",
+    "latitude" : "37.765084",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Theater of Yugen",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2840 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411751",
+    "latitude" : "37.763583",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Library",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 BARTLETT ST",
+  "street_name" : "BARTLETT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41984109",
+    "latitude" : "37.75197155",
+    "human_address" : "{\"address\":\"BARTLETT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Goat Hill Pizzeria. Needs bike rack",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 CONNECTICUT ST",
+  "street_name" : "CONNECTICUT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397653",
+    "latitude" : "37.762402",
+    "human_address" : "{\"address\":\"CONNECTICUT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "mulitple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 DE HARO ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402024",
+    "latitude" : "37.765725",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Southern Exposure",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3030 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411282",
+    "latitude" : "37.759325",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cole Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3312 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421374",
+    "latitude" : "37.743793",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Papalote's Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3409 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420943",
+    "latitude" : "37.75194",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Horatius Bistro",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "350 KANSAS ST",
+  "street_name" : "KANSAS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403908",
+    "latitude" : "37.765371",
+    "human_address" : "{\"address\":\"KANSAS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ODC Dance Commons",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "351 SHOTWELL ST",
+  "street_name" : "SHOTWELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415843",
+    "latitude" : "37.762811",
+    "human_address" : "{\"address\":\"SHOTWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Comics and Art Businesses",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3520 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419665",
+    "latitude" : "37.758837",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Studio For Urban Projects",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3579 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425616",
+    "latitude" : "37.762899",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Riptide Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3639 TARAVAL ST",
+  "street_name" : "47TH AVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505326",
+    "latitude" : "37.741572",
+    "human_address" : "{\"address\":\"47TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lyttle Chiropractic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3705 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.428727",
+    "latitude" : "37.762696",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Hour Fitness Fit Lite",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3800 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.427685",
+    "latitude" : "37.751925",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noe Valley Fit Lite Gym",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3800 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.427685",
+    "latitude" : "37.751925",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Pizza Place",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3901 NORIEGA ST",
+  "street_name" : "NORIEGA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505608",
+    "latitude" : "37.752698",
+    "human_address" : "{\"address\":\"NORIEGA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Superior Court House",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "400 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419014",
+    "latitude" : "37.780519",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Feel Real Coffee House",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4001 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505019",
+    "latitude" : "37.760252",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Outerlands Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4001 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505019",
+    "latitude" : "37.760252",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Trouble Coffee Company",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4033 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505375",
+    "latitude" : "37.760201",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Trouble Coffee Company",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4033 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505375",
+    "latitude" : "37.760201",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Resource Bank",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "405 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39525",
+    "latitude" : "37.788891",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gym 445",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "445 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46696",
+    "latitude" : "37.761893",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Hour Fitness",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "45 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402524",
+    "latitude" : "37.78976",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dolores Park Church",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "455 DOLORES ST",
+  "street_name" : "DOLORES",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425754",
+    "latitude" : "37.762078",
+    "human_address" : "{\"address\":\"DOLORES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Madrone Lounge",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437364",
+    "latitude" : "37.774222",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Balboa Park Swimming Pool",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "51 HAVELOCK ST",
+  "street_name" : "HAVELOCK",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44625285",
+    "latitude" : "37.72477172",
+    "human_address" : "{\"address\":\"HAVELOCK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Green Apple Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "520 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464885",
+    "latitude" : "37.783189",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mad Dog in the Fog",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "530 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430844",
+    "latitude" : "37.772276",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Post All Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "530 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430844",
+    "latitude" : "37.772276",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Armstrong Senior/Place Housing",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "5600 03RD ST",
+  "street_name" : "ARMSTRONG",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395255",
+    "latitude" : "37.727638",
+    "human_address" : "{\"address\":\"ARMSTRONG\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Armstrong Senior/Place Housing",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "5600 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395255",
+    "latitude" : "37.727638",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Armstrong Senior/Place Housing",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "5600 03RD ST",
+  "street_name" : "BANCROFT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395255",
+    "latitude" : "37.727638",
+    "human_address" : "{\"address\":\"BANCROFT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chase Bank",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "595 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400655",
+    "latitude" : "37.789318",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "630 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46477",
+    "latitude" : "37.764355",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ArcoSports",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "639 FREDERICK ST",
+  "street_name" : "FREDERICK",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.455434",
+    "latitude" : "37.765769",
+    "human_address" : "{\"address\":\"FREDERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wine Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "665 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39304",
+    "latitude" : "37.779561",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chronicle Books",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "680 08TH ST",
+  "street_name" : "08TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404719",
+    "latitude" : "37.770128",
+    "human_address" : "{\"address\":\"08TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yocup Yogurt",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "685 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402759",
+    "latitude" : "37.787646",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pasquale's Pizzeria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "700 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46554",
+    "latitude" : "37.764252",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CCSF Alemany Campus",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "750 EDDY ST",
+  "street_name" : "EDDY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420049",
+    "latitude" : "37.783255",
+    "human_address" : "{\"address\":\"EDDY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "79 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400535",
+    "latitude" : "37.78789",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Velo Rouge Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "798 ARGUELLO BLVD",
+  "street_name" : "ARGUELLO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.458102",
+    "latitude" : "37.775411",
+    "human_address" : "{\"address\":\"ARGUELLO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Las Americas Childcare Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "801 TREAT AVE",
+  "street_name" : "21ST ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41275068",
+    "latitude" : "37.75682684",
+    "human_address" : "{\"address\":\"21ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pacific Energy Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "851 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403495",
+    "latitude" : "37.782124",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Westfield Centre",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "865 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407158",
+    "latitude" : "37.783947",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Quince Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "915 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4502137",
+    "latitude" : "37.76560156",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "House of Nanking",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "919 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405384",
+    "latitude" : "37.796439",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Castro Yogatree Yoga Studio",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "97 COLLINGWOOD ST",
+  "street_name" : "COLLINGWOOD",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43590174",
+    "latitude" : "37.7610279",
+    "human_address" : "{\"address\":\"COLLINGWOOD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Dosa",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "985 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42085",
+    "latitude" : "37.757224",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HWY",
+  "yr_installed" : "2010",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50682",
+    "latitude" : "37.73541",
+    "human_address" : "{\"address\":\"GREAT HWY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HWY",
+  "yr_installed" : "2010",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.51037",
+    "latitude" : "37.764033",
+    "human_address" : "{\"address\":\"GREAT HWY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HWY",
+  "yr_installed" : "2010",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.511289",
+    "latitude" : "37.775081",
+    "human_address" : "{\"address\":\"GREAT HWY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HWY",
+  "yr_installed" : "2010",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.51095",
+    "latitude" : "37.770474",
+    "human_address" : "{\"address\":\"GREAT HWY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HWY",
+  "yr_installed" : "2010",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.51095",
+    "latitude" : "37.770474",
+    "human_address" : "{\"address\":\"GREAT HWY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Douglass Playground",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "None",
+  "street_name" : "DOUGLASS",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43828",
+    "latitude" : "37.74785",
+    "human_address" : "{\"address\":\"DOUGLASS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HIGHWAY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50682",
+    "latitude" : "37.73541",
+    "human_address" : "{\"address\":\"GREAT HIGHWAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach (O'Shaughnessy seawall planting beds)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HIGHWAY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50909",
+    "latitude" : "37.75281",
+    "human_address" : "{\"address\":\"GREAT HIGHWAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach (O'Shaughnessy seawall planting beds)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "None",
+  "street_name" : "GREAT HIGHWAY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.51067",
+    "latitude" : "37.76465",
+    "human_address" : "{\"address\":\"GREAT HIGHWAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Village Pizzeria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.459344",
+    "latitude" : "37.783002",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Office Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1 FRONT ST",
+  "street_name" : "FRONT",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398898",
+    "latitude" : "37.791757",
+    "human_address" : "{\"address\":\"FRONT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wiggle Rack",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4309788",
+    "latitude" : "37.76892919",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Apple Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406529",
+    "latitude" : "37.785852",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Irish Bank Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "10 MARK LN",
+  "street_name" : "MARK LANE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40463656",
+    "latitude" : "37.79039417",
+    "human_address" : "{\"address\":\"MARK LANE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Civic Center Plaza",
+  "spaces" : "34",
+  "racks" : "17",
+  "yr_inst" : "100 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41759951",
+    "latitude" : "37.77948045",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UCSF Medical Campus garage",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "100 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45932042",
+    "latitude" : "37.76371341",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bank of America",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1007 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.477084",
+    "latitude" : "37.742743",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Family Service Agency of SF",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1010 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423925",
+    "latitude" : "37.782762",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lusty Lady Theater",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1033 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405734",
+    "latitude" : "37.79758",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1043 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412757",
+    "latitude" : "37.753463",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cala Foods",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1095 HYDE ST",
+  "street_name" : "HYDE",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417821",
+    "latitude" : "37.790616",
+    "human_address" : "{\"address\":\"HYDE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Boogaloos",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "1099 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42068142",
+    "latitude" : "37.75548474",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Subway",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "11 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40303321",
+    "latitude" : "37.78741044",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Accounting Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1101 VICENTE ST",
+  "street_name" : "VICENTE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.478806",
+    "latitude" : "37.738928",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Java Jitters Coffee Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1117 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.454562",
+    "latitude" : "37.723268",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Asian Pacific Islander Legal Outreach",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1121 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41123",
+    "latitude" : "37.778652",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CCSF Mission Campus",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1125 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420304",
+    "latitude" : "37.754847",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Heaven's Dog",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1148 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412634",
+    "latitude" : "37.778704",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Broken Record Bar and Grill",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1166 GENEVA AVE",
+  "street_name" : "GENEVA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437001",
+    "latitude" : "37.714265",
+    "human_address" : "{\"address\":\"GENEVA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chemical Dependency Service",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1201 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433057",
+    "latitude" : "37.780858",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chinese Medicine Works",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1201 NOE ST",
+  "street_name" : "25TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431476",
+    "latitude" : "37.749723",
+    "human_address" : "{\"address\":\"25TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Riverside Seafood Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1201 VICENTE ST",
+  "street_name" : "VICENTE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.479878",
+    "latitude" : "37.738894",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jewish Community Federation",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "121 STEUART ST",
+  "street_name" : "STEUART",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392541",
+    "latitude" : "37.793145",
+    "human_address" : "{\"address\":\"STEUART\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Frankee Uno San Francisco",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1221 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.439353",
+    "latitude" : "37.780905",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Liquor Locker",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1223 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.479337",
+    "latitude" : "37.742642",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fight and Fitness Gym",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "123 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417624",
+    "latitude" : "37.771461",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Mike's Bikes",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "1233 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411781",
+    "latitude" : "37.775624",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Just Won Ton Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1239 VICENTE ST",
+  "street_name" : "VICENTE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.480407",
+    "latitude" : "37.738872",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sparc (cannabis club)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1256 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414225",
+    "latitude" : "37.776961",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "cannabis club",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1260 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414225",
+    "latitude" : "37.776961",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Family Practice doctor's office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1286 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429637",
+    "latitude" : "37.748579",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. John of God Church.",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1290 05TH AVE",
+  "street_name" : "05TH AVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.461764",
+    "latitude" : "37.764502",
+    "human_address" : "{\"address\":\"05TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ananda Fuara Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1298 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416203",
+    "latitude" : "37.77798",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ingleside Branch Library",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1298 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4562",
+    "latitude" : "37.724143",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Valencia Farmer's Market",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "1299 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4203743",
+    "latitude" : "37.75224685",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "residential",
+  "spaces" : "6",
+  "racks" : "1",
+  "yr_inst" : "1300 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43362007",
+    "latitude" : "37.77861197",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Viking Submarines",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1300 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.456608",
+    "latitude" : "37.724233",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "small grocery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1306 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408426",
+    "latitude" : "37.79786",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Little Saigon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "131 STEUART ST",
+  "street_name" : "STEUART",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392374",
+    "latitude" : "37.793012",
+    "human_address" : "{\"address\":\"STEUART\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Aunt Charlie's Lounge",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "133 TURK ST",
+  "street_name" : "TURK",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411384",
+    "latitude" : "37.782849",
+    "human_address" : "{\"address\":\"TURK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yoshis",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1330 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431977",
+    "latitude" : "37.781951",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Candybar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1335 FULTON ST",
+  "street_name" : "FULTON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43883",
+    "latitude" : "37.776538",
+    "human_address" : "{\"address\":\"FULTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Jalepeno Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1338 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.457036",
+    "latitude" : "37.724325",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "North of Market / Tenderloin Community Benefit District facility",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "134 GOLDEN GATE AVE",
+  "street_name" : "GOLDEN GATE",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412985",
+    "latitude" : "37.782263",
+    "human_address" : "{\"address\":\"GOLDEN GATE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nob Hill Health Care Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1359 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418287",
+    "latitude" : "37.78962",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Java Beach Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1396 LA PLAYA",
+  "street_name" : "LA PLAYA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.508931",
+    "latitude" : "37.760451",
+    "human_address" : "{\"address\":\"LA PLAYA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Positively Haight Street Business.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1400 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4457",
+    "latitude" : "37.7704",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Contraband Coffee Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1415 LARKIN ST",
+  "street_name" : "LARKIN",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419254",
+    "latitude" : "37.790993",
+    "human_address" : "{\"address\":\"LARKIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "J.B.'s Place",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1435 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39837483",
+    "latitude" : "37.76487114",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "PariSoma Innovation Loft",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1436 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415075",
+    "latitude" : "37.773835",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nick's Supermarket",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "144 PAGE ST",
+  "street_name" : "PAGE",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423232",
+    "latitude" : "37.774243",
+    "human_address" : "{\"address\":\"PAGE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kaplan Building",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "149 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39956",
+    "latitude" : "37.786964",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Psychic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1495 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.458146",
+    "latitude" : "37.724303",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "15 ONONDAGA AVE",
+  "street_name" : "ONONDAGA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43812",
+    "latitude" : "37.721203",
+    "human_address" : "{\"address\":\"ONONDAGA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bay Club SF",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "150 GREENWICH ST",
+  "street_name" : "GREENWICH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40262732",
+    "latitude" : "37.80344465",
+    "human_address" : "{\"address\":\"GREENWICH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clean X Press",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1500 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.458414",
+    "latitude" : "37.724587",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pacific Primary School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1501 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.441606",
+    "latitude" : "37.775283",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lucky Ocean Donuts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1501 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.458356",
+    "latitude" : "37.724092",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sevan Liquor and Deli",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1508 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.482415",
+    "latitude" : "37.743002",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF MOMA",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "151 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40075",
+    "latitude" : "37.785923",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Girogio's Pizzeria",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "151 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.461013",
+    "latitude" : "37.782857",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Black Horse London Deli",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1514 UNION ST",
+  "street_name" : "UNION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424426",
+    "latitude" : "37.79864",
+    "human_address" : "{\"address\":\"UNION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jubili",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1515 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433316",
+    "latitude" : "37.783481",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sushi Groove",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1516 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414515",
+    "latitude" : "37.771824",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hyde Street Bistro",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1521 HYDE ST",
+  "street_name" : "HYDE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418359",
+    "latitude" : "37.79472",
+    "human_address" : "{\"address\":\"HYDE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "The Butler & The Chef",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "155 SOUTH PARK",
+  "street_name" : "SOUTH PARK AVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394214",
+    "latitude" : "37.780898",
+    "human_address" : "{\"address\":\"SOUTH PARK AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Incanto Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1550 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.427201",
+    "latitude" : "37.745943",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Woodside International School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1555 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.474748",
+    "latitude" : "37.763432",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Consignment Sports Store (rematchSports)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1567 PACIFIC AVE",
+  "street_name" : "PACIFIC",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421058",
+    "latitude" : "37.795011",
+    "human_address" : "{\"address\":\"PACIFIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Francisco Market.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "16 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466309",
+    "latitude" : "37.740786",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thee Parkside",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1600 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399885",
+    "latitude" : "37.765168",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Burito",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1601 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.483403",
+    "latitude" : "37.742567",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "NCPS",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1631 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45981",
+    "latitude" : "37.724411",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bank of America",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1649 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.459987",
+    "latitude" : "37.724429",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "NatÆl Holistic Institute campus",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1665 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421433",
+    "latitude" : "37.772963",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Espetus Churrascaria Brazilian Steak House",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1686 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422066",
+    "latitude" : "37.773435",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cannell Capital",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "170 GRANT AVE",
+  "street_name" : "GRANT",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404963",
+    "latitude" : "37.788549",
+    "human_address" : "{\"address\":\"GRANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Miracle Cleaners",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1708 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.460192",
+    "latitude" : "37.724988",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Marcus Bookstore",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1714 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432865",
+    "latitude" : "37.785472",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Test Magic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1722 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.476504",
+    "latitude" : "37.763839",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Cinch bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1723 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42146",
+    "latitude" : "37.792734",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Avenue Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1735 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.460781",
+    "latitude" : "37.724571",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jackson Hewitt Tax Service",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1739 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43313323",
+    "latitude" : "37.78305462",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fat Angel Wine Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1740 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43331592",
+    "latitude" : "37.78348073",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Funkydoor Yoga Haight",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1749 WALLER ST",
+  "street_name" : "WALLER",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452489",
+    "latitude" : "37.768057",
+    "human_address" : "{\"address\":\"WALLER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nomad Body Piercing",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1755 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42286566",
+    "latitude" : "37.77187452",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rebel Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1760 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423102",
+    "latitude" : "37.772544",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Parilla Grill Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1760 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420907",
+    "latitude" : "37.793124",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hand Printed Custom Shirts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1767 WALLER ST",
+  "street_name" : "WALLER",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452668",
+    "latitude" : "37.768199",
+    "human_address" : "{\"address\":\"WALLER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chase Bank",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "177 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422163",
+    "latitude" : "37.770271",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Papalote Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1777 FULTON ST",
+  "street_name" : "FULTON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.446031",
+    "latitude" : "37.775693",
+    "human_address" : "{\"address\":\"FULTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "USPS",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "180 STEUART ST",
+  "street_name" : "STEUART",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39225139",
+    "latitude" : "37.79224915",
+    "human_address" : "{\"address\":\"STEUART\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kumon Reading Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1827 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.461845",
+    "latitude" : "37.724882",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1835 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423428",
+    "latitude" : "37.792633",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CCSF John Adams Campus",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1860 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.447012",
+    "latitude" : "37.774299",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kabuki Sundance Cinema",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1881 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432292",
+    "latitude" : "37.784921",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lucca Foods",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1899 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.47792223",
+    "latitude" : "37.76328169",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Orbit Room",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1900 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425406",
+    "latitude" : "37.770641",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Hour Fitness",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1900 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.462196",
+    "latitude" : "37.725474",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Franciscan Hobby Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1920 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.462977",
+    "latitude" : "37.725806",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Johny Rockets restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1946 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433359",
+    "latitude" : "37.787823",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Aquatic Central",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1963 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.463662",
+    "latitude" : "37.725547",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "199 PARNASSUS AVE",
+  "street_name" : "PARNASSUS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452259",
+    "latitude" : "37.764286",
+    "human_address" : "{\"address\":\"PARNASSUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cumaica Coffee",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "200 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4614",
+    "latitude" : "37.783334",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thep Phanom Thai",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "200 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430125",
+    "latitude" : "37.771408",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Civic Center Plaza",
+  "spaces" : "20",
+  "racks" : "10",
+  "yr_inst" : "201 LARKIN ST",
+  "street_name" : "LARKIN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41759951",
+    "latitude" : "37.77948045",
+    "human_address" : "{\"address\":\"LARKIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bistro Burger",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "201 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394768",
+    "latitude" : "37.791034",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mercury Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "201 OCTAVIA ST",
+  "street_name" : "OCTAVIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424323",
+    "latitude" : "37.773993",
+    "human_address" : "{\"address\":\"OCTAVIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SFPD Bayview Station",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "201 WILLIAMS AVE",
+  "street_name" : "WILLIAMS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398163",
+    "latitude" : "37.729658",
+    "human_address" : "{\"address\":\"WILLIAMS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Eyebrows To Die For",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2115 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42338",
+    "latitude" : "37.794965",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Stable Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2128 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415457",
+    "latitude" : "37.76321",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Meyer Boswellk Books Inc.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2141 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419086",
+    "latitude" : "37.762686",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Supercuts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "215 FREMONT ST",
+  "street_name" : "FREMONT",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394299",
+    "latitude" : "37.789139",
+    "human_address" : "{\"address\":\"FREMONT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pacific Food Mart",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2199 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436523",
+    "latitude" : "37.785652",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bank of the West",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "220 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401994",
+    "latitude" : "37.791316",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Supermarket",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2201 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.481613",
+    "latitude" : "37.763119",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Out the Door restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2232 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434122",
+    "latitude" : "37.787208",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St Mary's Hospital",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2250 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.453504",
+    "latitude" : "37.773241",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bills Place (Burger Joint).",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2315 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.484154",
+    "latitude" : "37.781806",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Main Postal Service Location",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "232 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39092",
+    "latitude" : "37.787756",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Boulange Cafe & Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2325 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434031",
+    "latitude" : "37.787629",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Irish Pub",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2328 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.483035",
+    "latitude" : "37.763549",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "California Pacific Medical Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2333 BUCHANAN ST",
+  "street_name" : "BUCHANAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431434",
+    "latitude" : "37.790615",
+    "human_address" : "{\"address\":\"BUCHANAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Urban Health Clinic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "234 EDDY ST",
+  "street_name" : "EDDY",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41168",
+    "latitude" : "37.784342",
+    "human_address" : "{\"address\":\"EDDY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Siegel's Clothing Superstore",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2366 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419412",
+    "latitude" : "37.759222",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Comic Outpost",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2381 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.469478",
+    "latitude" : "37.729796",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "JCX Expendables Business",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2413 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412151",
+    "latitude" : "37.758566",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Seniore's Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2415 19TH AVE",
+  "street_name" : "19TH AVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.47587007",
+    "latitude" : "37.74279406",
+    "human_address" : "{\"address\":\"19TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tully's Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2455 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434585",
+    "latitude" : "37.792291",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Phuket Thai Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "248 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436694",
+    "latitude" : "37.771184",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Duboce Park",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "25 STEINER ST",
+  "street_name" : "STEINER",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43342784",
+    "latitude" : "37.76961501",
+    "human_address" : "{\"address\":\"STEINER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Peet's Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "250 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402276",
+    "latitude" : "37.791583",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Heirloom Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2500 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414812",
+    "latitude" : "37.757101",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Medical Offices",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2501 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.472622",
+    "latitude" : "37.731212",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "American Gymnastics & Raise the Bar Fitness",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2520 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.489206",
+    "latitude" : "37.761409",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2550 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.472737",
+    "latitude" : "37.731721",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Doc's Clock",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2575 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41844",
+    "latitude" : "37.755946",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "World Team Kickboxing",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2575 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.473337",
+    "latitude" : "37.731444",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "City Lights Bookstore",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "261 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406579",
+    "latitude" : "37.797601",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Embarcadero West building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "275 BATTERY ST",
+  "street_name" : "BATTERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400374",
+    "latitude" : "37.793863",
+    "human_address" : "{\"address\":\"BATTERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pirate Cat Radio Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2781 21ST ST",
+  "street_name" : "21ST ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41035996",
+    "latitude" : "37.75734234",
+    "human_address" : "{\"address\":\"21ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Humphrey Slocombe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2790 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412202",
+    "latitude" : "37.752799",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yoga Garden of San Francisco",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "286 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436867",
+    "latitude" : "37.771981",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dave's Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "29 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403033",
+    "latitude" : "37.78741",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Pie",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2901 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417935",
+    "latitude" : "37.750538",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Waldorf School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2938 WASHINGTON ST",
+  "street_name" : "WASHINGTON",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44191",
+    "latitude" : "37.790783",
+    "human_address" : "{\"address\":\"WASHINGTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Cocina",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2948 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414199",
+    "latitude" : "37.750172",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Page Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "298 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437013",
+    "latitude" : "37.772104",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Holy Family School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "299 DOLORES ST",
+  "street_name" : "DOLORES",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425798",
+    "latitude" : "37.764992",
+    "human_address" : "{\"address\":\"DOLORES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3001 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49871",
+    "latitude" : "37.741789",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bike Nook",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3004 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49842544",
+    "latitude" : "37.7422558",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Loma Produce",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3032 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420415",
+    "latitude" : "37.765255",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Hiring Hall",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3042 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420676",
+    "latitude" : "37.765232",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Skateboards",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3045 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41276053",
+    "latitude" : "37.7523877",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Vanida Thai Kitchen restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3050 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49901644",
+    "latitude" : "37.74227099",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "muraccis Japanese Curry",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "307 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404264",
+    "latitude" : "37.790897",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Art Gallery",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "3131 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.493058",
+    "latitude" : "37.781394",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Caffeinated Comics",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3188 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419833",
+    "latitude" : "37.746164",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Taqueria Can Cun",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3211 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419776",
+    "latitude" : "37.74527",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3213 PIERCE ST",
+  "street_name" : "PIERCE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.439552",
+    "latitude" : "37.799676",
+    "human_address" : "{\"address\":\"PIERCE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blue Plate",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3218 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420435",
+    "latitude" : "37.745275",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thai Idea",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3221 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419787",
+    "latitude" : "37.745082",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hair Designers of Jackson Square",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "326 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4010685",
+    "latitude" : "37.79689179",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gravel & Gold",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3266 21ST ST",
+  "street_name" : "21ST ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420517",
+    "latitude" : "37.757142",
+    "human_address" : "{\"address\":\"21ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Federal Credit Union",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3269 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420222",
+    "latitude" : "37.744415",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Discount Camera",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "33 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403864",
+    "latitude" : "37.788266",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bad Joes Body Shop",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3309 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420592",
+    "latitude" : "37.743917",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Little Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3318 STEINER ST",
+  "street_name" : "STEINER",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437559",
+    "latitude" : "37.800033",
+    "human_address" : "{\"address\":\"STEINER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Shotwells",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3349 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415612",
+    "latitude" : "37.758621",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Safeway",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3350 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42219",
+    "latitude" : "37.743213",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mr. Pickles",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3380 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416538",
+    "latitude" : "37.759003",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lone Palm Cocktail Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3394 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42292181",
+    "latitude" : "37.75539777",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Onyx",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3412 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42353557",
+    "latitude" : "37.75527943",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Mission Statement",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3458 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42062",
+    "latitude" : "37.761966",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Angkor Borei",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3471 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422342",
+    "latitude" : "37.741203",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential complex",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "350 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40153",
+    "latitude" : "37.796802",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Economic Development Association",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3505 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419335",
+    "latitude" : "37.75846",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ike's Place",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3506 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431215",
+    "latitude" : "37.764539",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Civic Center Plaza",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "351 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41759951",
+    "latitude" : "37.77948045",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Muni Laguna Honda Station",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "354 LAGUNA HONDA BLVD",
+  "street_name" : "LAGUNA HONDA",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45931869",
+    "latitude" : "37.7478647",
+    "human_address" : "{\"address\":\"LAGUNA HONDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St Lukes Hospital Main entrance",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3555 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420882",
+    "latitude" : "37.747165",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbelly",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3583 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432534",
+    "latitude" : "37.764021",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "On The Corner Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "359 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437577",
+    "latitude" : "37.773005",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbucks",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3595 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.453151",
+    "latitude" : "37.78604",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. James School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3648 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423851",
+    "latitude" : "37.752081",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noah's Bagels",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "366 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396533",
+    "latitude" : "37.790626",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Portola Branch Library",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "380 BACON ST",
+  "street_name" : "BACON",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406362",
+    "latitude" : "37.727114",
+    "human_address" : "{\"address\":\"BACON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CPMC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3838 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.457598",
+    "latitude" : "37.786186",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Buckshot Bar and Gameroom",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3848 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.460856",
+    "latitude" : "37.781484",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noe Valley Pizza Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3896 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429381",
+    "latitude" : "37.751811",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Doctor's office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3905 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.457195",
+    "latitude" : "37.786593",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Whole Foods",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "3950 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430852",
+    "latitude" : "37.751866",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blissful Bites",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "397 ARGUELLO BLVD",
+  "street_name" : "ARGUELLO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4593",
+    "latitude" : "37.783407",
+    "human_address" : "{\"address\":\"ARGUELLO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Max's On the Square",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "398 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409883",
+    "latitude" : "37.787166",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sun Days Tanning",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3985 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43469398",
+    "latitude" : "37.7622884",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wild Card",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3989 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43478022",
+    "latitude" : "37.76228318",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gotham",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3991 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43486645",
+    "latitude" : "37.76227796",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Louie Hair Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4 BRADY ST",
+  "street_name" : "BRADY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4211174",
+    "latitude" : "37.77321289",
+    "human_address" : "{\"address\":\"BRADY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "T & T Nails",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "405 ARGUELLO BLVD",
+  "street_name" : "ARGUELLO",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.459337",
+    "latitude" : "37.782899",
+    "human_address" : "{\"address\":\"ARGUELLO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Electrical Training Facility",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4056 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.427719",
+    "latitude" : "37.732813",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Montgomery Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "408 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402136",
+    "latitude" : "37.796739",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starlight Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "410 ELLIS ST",
+  "street_name" : "ELLIS",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412994",
+    "latitude" : "37.784881",
+    "human_address" : "{\"address\":\"ELLIS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Antiques Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "412 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40229",
+    "latitude" : "37.79672",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Louies Barber Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "422 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435388",
+    "latitude" : "37.762056",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Farmers Insurance",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4221 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430282",
+    "latitude" : "37.729731",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "6th Avenue Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4334 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464096",
+    "latitude" : "37.785313",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Arader Galleries",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "434 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402556",
+    "latitude" : "37.796687",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Namu Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "439 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.463713",
+    "latitude" : "37.777068",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "John VelasquezáSalon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "440 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402717",
+    "latitude" : "37.796667",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "LiveNation Punch Line Comedy Club",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "444 BATTERY ST",
+  "street_name" : "BATTERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399944",
+    "latitude" : "37.795514",
+    "human_address" : "{\"address\":\"BATTERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Laurel Inn Hotel",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "444 PRESIDIO AVE",
+  "street_name" : "PRESIDIO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.446579",
+    "latitude" : "37.787588",
+    "human_address" : "{\"address\":\"PRESIDIO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Excelsior Senior and Teen Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4468 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433917",
+    "latitude" : "37.726335",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Miette Confiserie candy store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "449 OCTAVIA ST",
+  "street_name" : "OCTAVIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424756",
+    "latitude" : "37.776393",
+    "human_address" : "{\"address\":\"OCTAVIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Costco",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "450 10TH ST",
+  "street_name" : "10TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411106",
+    "latitude" : "37.770488",
+    "human_address" : "{\"address\":\"10TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Theater Artaud and Travelling Jewish Theater",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "450 FLORIDA ST",
+  "street_name" : "FLORIDA",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411751",
+    "latitude" : "37.763583",
+    "human_address" : "{\"address\":\"FLORIDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Mary's Hospital",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "450 STANYAN ST",
+  "street_name" : "STANYAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.454188",
+    "latitude" : "37.774059",
+    "human_address" : "{\"address\":\"STANYAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Double Decker restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "465 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424091",
+    "latitude" : "37.777451",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Filipino Community Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4681 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435475",
+    "latitude" : "37.723348",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bayview Webspot Computer Rental",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "475 BRANNAN ST",
+  "street_name" : "BRANNAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395284",
+    "latitude" : "37.778612",
+    "human_address" : "{\"address\":\"BRANNAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hunt Antiques",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "478 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403181",
+    "latitude" : "37.796609",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Serge Serge Sorokko art gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "49 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404371",
+    "latitude" : "37.787432",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yank Sing restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "49 STEVENSON ST",
+  "street_name" : "STEVENSON",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399352",
+    "latitude" : "37.789736",
+    "human_address" : "{\"address\":\"STEVENSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Box Dog Bikes / Thieve's Tavern",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "494 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424173",
+    "latitude" : "37.768215",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Tortilla",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "495 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434701",
+    "latitude" : "37.761095",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Il Borgo",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 FELL ST",
+  "street_name" : "FELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42628",
+    "latitude" : "37.775698",
+    "human_address" : "{\"address\":\"FELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "500 Club",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "500 GUERRERO ST",
+  "street_name" : "GUERRERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424214",
+    "latitude" : "37.763009",
+    "human_address" : "{\"address\":\"GUERRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Copy Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 LARKIN ST",
+  "street_name" : "LARKIN",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417126",
+    "latitude" : "37.782609",
+    "human_address" : "{\"address\":\"LARKIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gymboree Corporation",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "501 BRANNAN ST",
+  "street_name" : "BRANNAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396648",
+    "latitude" : "37.777699",
+    "human_address" : "{\"address\":\"BRANNAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Timbuk2",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "506 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424912",
+    "latitude" : "37.776816",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lavish",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "508 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424912",
+    "latitude" : "37.776816",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Corinthian Court Apartments",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "512 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419905",
+    "latitude" : "37.780405",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "515 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4642843",
+    "latitude" : "37.77707728",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Acme Surplus",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "516 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424912",
+    "latitude" : "37.776816",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wiggle Rack",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5201 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.475266",
+    "latitude" : "37.780248",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MSC",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "525 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434598",
+    "latitude" : "37.760452",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chipotle",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "525 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399276",
+    "latitude" : "37.790407",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Naked Eye News & Video",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "530 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404214",
+    "latitude" : "37.793342",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Bank",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "540 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419943",
+    "latitude" : "37.780832",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Club Waziema",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "543 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438054",
+    "latitude" : "37.77462",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Boulange Cafe & Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "544 CAPP ST",
+  "street_name" : "CAPP",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418205",
+    "latitude" : "37.757921",
+    "human_address" : "{\"address\":\"CAPP\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pandora's Trunk",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "544 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431193",
+    "latitude" : "37.772042",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flourish: A Chiropractic Studio",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "557 WALLER ST",
+  "street_name" : "WALLER",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432862",
+    "latitude" : "37.770682",
+    "human_address" : "{\"address\":\"WALLER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Office Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "568 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397847",
+    "latitude" : "37.787445",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Frjtz Gourmet Belgian Fies",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "579 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425767",
+    "latitude" : "37.776264",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Duboce Park",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "580 DUBOCE AVE",
+  "street_name" : "DUBOCE",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432713",
+    "latitude" : "37.769248",
+    "human_address" : "{\"address\":\"DUBOCE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "5800 Third Street",
+  "spaces" : "24",
+  "racks" : "12",
+  "yr_inst" : "5800 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39552",
+    "latitude" : "37.725173",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Interstice Architects Inc.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "587 SHOTWELL ST",
+  "street_name" : "SHOTWELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41527469",
+    "latitude" : "37.75907967",
+    "human_address" : "{\"address\":\"SHOTWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "O'Looney's Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "588 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431877",
+    "latitude" : "37.772166",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sisley (clothes)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "59 GRANT AVE",
+  "street_name" : "GRANT",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405264",
+    "latitude" : "37.78752",
+    "human_address" : "{\"address\":\"GRANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chevy's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "590 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41994287",
+    "latitude" : "37.78083159",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Peet's Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "595 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399275",
+    "latitude" : "37.788161",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Seesaw LLC Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "600 OCTAVIA ST",
+  "street_name" : "OCTAVIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424683",
+    "latitude" : "37.777813",
+    "human_address" : "{\"address\":\"OCTAVIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chile Pies (& Ice Cream)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "601 BAKER ST",
+  "street_name" : "BAKER",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.441854",
+    "latitude" : "37.776539",
+    "human_address" : "{\"address\":\"BAKER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "HSM Realty",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "602 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42655043",
+    "latitude" : "37.77672802",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Crunch",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "61 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400955",
+    "latitude" : "37.788227",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chloe's Closet",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "616 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464556",
+    "latitude" : "37.764295",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Health Haven",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "621 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398556",
+    "latitude" : "37.786043",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lee's Sandwiches",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "625 LARKIN ST",
+  "street_name" : "LARKIN",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417862",
+    "latitude" : "37.783624",
+    "human_address" : "{\"address\":\"LARKIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tenderloin Elementary School",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "627 TURK ST",
+  "street_name" : "TURK",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419744",
+    "latitude" : "37.781813",
+    "human_address" : "{\"address\":\"TURK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Independent",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "63 WALTER ST",
+  "street_name" : "WALTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432042",
+    "latitude" : "37.768197",
+    "human_address" : "{\"address\":\"WALTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tart to Tart",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "641 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464839",
+    "latitude" : "37.763857",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Alouis Auto Radiator",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "650 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437588",
+    "latitude" : "37.775742",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sharethrough Inc",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "650 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401133",
+    "latitude" : "37.787264",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cara Glass & Sash",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "653 CHENERY ST",
+  "street_name" : "CHENERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433005",
+    "latitude" : "37.734302",
+    "human_address" : "{\"address\":\"CHENERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fecal Face Dot Gallery (closed)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "66 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42206304",
+    "latitude" : "37.77342754",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "AuburnCom Computer Store",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "663 UNION ST",
+  "street_name" : "UNION",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410421",
+    "latitude" : "37.8",
+    "human_address" : "{\"address\":\"UNION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hair Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "670 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40005",
+    "latitude" : "37.785742",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Prudential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "675 PORTOLA DR",
+  "street_name" : "PORTOLA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452562",
+    "latitude" : "37.74456",
+    "human_address" : "{\"address\":\"PORTOLA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Grove restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "695 MINNA ST",
+  "street_name" : "MINNA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412426",
+    "latitude" : "37.777123",
+    "human_address" : "{\"address\":\"MINNA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cole Valley Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "701 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450758",
+    "latitude" : "37.768434",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yerba Buena Center (Gallery)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "701 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402424",
+    "latitude" : "37.785798",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clement St. Bar and Grill",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "708 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403157",
+    "latitude" : "37.795811",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bubble Lounge",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "714 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403068",
+    "latitude" : "37.795902",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Big Joe's Broiler #2",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "717 MONTEREY BLVD",
+  "street_name" : "MONTEREY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.451596",
+    "latitude" : "37.731247",
+    "human_address" : "{\"address\":\"MONTEREY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Perish Trust",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "729 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404387",
+    "latitude" : "37.786909",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "741 DIAMOND ST",
+  "street_name" : "DIAMOND",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436129",
+    "latitude" : "37.751417",
+    "human_address" : "{\"address\":\"DIAMOND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Moscone Center",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "747 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400813",
+    "latitude" : "37.783513",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Coffee Bean",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "776 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434967",
+    "latitude" : "37.77178",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "783 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435104",
+    "latitude" : "37.77132",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Haight St. Dental",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "786 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435126",
+    "latitude" : "37.7717",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Sapore",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "790 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42034",
+    "latitude" : "37.782695",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ali Baba's Cave",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "799 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42110638",
+    "latitude" : "37.76029681",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hotel Vitale",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "8 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393406",
+    "latitude" : "37.793835",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean Beach",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "800 GREAT HWY",
+  "street_name" : "GREAT HWY",
+  "yr_installed" : "2010",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.51042",
+    "latitude" : "37.772707",
+    "human_address" : "{\"address\":\"GREAT HWY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Art Mart Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "803 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421129",
+    "latitude" : "37.759948",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Everlasting Tattoo",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "813 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438452",
+    "latitude" : "37.777129",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Benders Bar",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "814 EDDY ST",
+  "street_name" : "EDDY",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421371",
+    "latitude" : "37.782909",
+    "human_address" : "{\"address\":\"EDDY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "845 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2010",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41857906",
+    "latitude" : "37.78482642",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Little Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "848 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402614",
+    "latitude" : "37.781347",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CineArts at the Empire",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "85 WEST PORTAL AVE",
+  "street_name" : "VICENTE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466309",
+    "latitude" : "37.739766",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "PUMA store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "858 STANYAN ST",
+  "street_name" : "STANYAN",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452672",
+    "latitude" : "37.766543",
+    "human_address" : "{\"address\":\"STANYAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "865 FLORIDA ST",
+  "street_name" : "FLORIDA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410304",
+    "latitude" : "37.758104",
+    "human_address" : "{\"address\":\"FLORIDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Peet's Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "866 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421635",
+    "latitude" : "37.758982",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hotel Whitcomb",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "9 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403856",
+    "latitude" : "37.795667",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "9 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41544174",
+    "latitude" : "37.77858416",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oasis Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "901 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2010",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438709",
+    "latitude" : "37.777916",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Val De Cole Wines & Spirits",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "906 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44969535",
+    "latitude" : "37.76557813",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Freewheel",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "914 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42151878",
+    "latitude" : "37.7582515",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Lukes Monteagle Medical Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "968 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409823",
+    "latitude" : "37.783072",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rincon Market",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "98 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39284752",
+    "latitude" : "37.79226514",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bill Graham Civic Auditorium",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "99 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2010",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417316",
+    "latitude" : "37.778083",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Arts and Craftsman Supplies.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "990 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416635",
+    "latitude" : "37.788244",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Parque Ninos Unidos (Park)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "990 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2010",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413636",
+    "latitude" : "37.754422",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dogpatch Biofuels",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "992 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2010",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421431",
+    "latitude" : "37.75704",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Community Housing Partnership San Cristina",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1000 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410989",
+    "latitude" : "37.782044",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "The Art Institute of California",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1170 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414301",
+    "latitude" : "37.779497",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Everybody Bikes",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1352 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.472606",
+    "latitude" : "37.763987",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Synergy School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1387 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42019976",
+    "latitude" : "37.75087429",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Pool",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "159 LINDA ST",
+  "street_name" : "LINDA",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42238751",
+    "latitude" : "37.75930484",
+    "human_address" : "{\"address\":\"LINDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Rainbow Grocery",
+  "spaces" : "16",
+  "racks" : "8",
+  "yr_inst" : "1745 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415058",
+    "latitude" : "37.769109",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Art Academy University",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "180 NEW MONTGOMERY ST",
+  "street_name" : "NEW MONTGOMERY",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399521",
+    "latitude" : "37.786251",
+    "human_address" : "{\"address\":\"NEW MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Golden Gate Valley Branch Library",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "1801 GREEN ST",
+  "street_name" : "GREEN",
+  "yr_installed" : "2011",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429023",
+    "latitude" : "37.796789",
+    "human_address" : "{\"address\":\"GREEN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Roxie Food Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1901 SAN JOSE AVE",
+  "street_name" : "SAN JOSE",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44121727",
+    "latitude" : "37.72668172",
+    "human_address" : "{\"address\":\"SAN JOSE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Citizen Chain Cyclery",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "2064 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41125279",
+    "latitude" : "37.80382297",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Healthy Spirits",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2299 15TH ST",
+  "street_name" : "15TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43526612",
+    "latitude" : "37.76552712",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Flour & Water Restaurant",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "2401 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412185",
+    "latitude" : "37.758923",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Socratic Technologies, Inc.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2505 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408689",
+    "latitude" : "37.762892",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dear Mom",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "2700 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413521",
+    "latitude" : "37.765699",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Victoria Theater",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2961 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418865",
+    "latitude" : "37.764859",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Equinox",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "301 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40128",
+    "latitude" : "37.791834",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ActivSpace / Treat Street Bicycle Works",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3150 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414256",
+    "latitude" : "37.762699",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cole Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3312 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421374",
+    "latitude" : "37.743793",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Buchalter",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "333 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397517",
+    "latitude" : "37.791778",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Johnson & Murphy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "333 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40750049",
+    "latitude" : "37.78793122",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ike's Place",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3489 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43057",
+    "latitude" : "37.764158",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lookout/Squat & Gobble",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3600 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433406",
+    "latitude" : "37.764391",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Pizza Place",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3901 NORIEGA ST",
+  "street_name" : "NORIEGA",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505608",
+    "latitude" : "37.752698",
+    "human_address" : "{\"address\":\"NORIEGA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4023 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433295",
+    "latitude" : "37.760765",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Resource Bank",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "405 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39525",
+    "latitude" : "37.788891",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chase Building",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "425 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401353",
+    "latitude" : "37.792796",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Firefly restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4288 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438257",
+    "latitude" : "37.751264",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Village Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4555 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466506",
+    "latitude" : "37.784511",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Foundry Square",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396569",
+    "latitude" : "37.788423",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Balboa Park Swimming Pool",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "51 HAVELOCK ST",
+  "street_name" : "HAVELOCK",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44625285",
+    "latitude" : "37.72477172",
+    "human_address" : "{\"address\":\"HAVELOCK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Green Apple Books",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "520 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464885",
+    "latitude" : "37.783189",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Boulange Cafe & Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "543 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409665",
+    "latitude" : "37.799669",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Alvarado Elementary School",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "625 DOUGLASS ST",
+  "street_name" : "DOUGLASS",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438193",
+    "latitude" : "37.753682",
+    "human_address" : "{\"address\":\"DOUGLASS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Cafe Seventy8",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "78 29TH ST",
+  "street_name" : "29TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42134368",
+    "latitude" : "37.74427406",
+    "human_address" : "{\"address\":\"29TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ross",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "799 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405265",
+    "latitude" : "37.785647",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Westfield Centre",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "865 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407158",
+    "latitude" : "37.783947",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Amsterdam Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "937 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418776",
+    "latitude" : "37.785756",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lincoln Park playground",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "None",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4936",
+    "latitude" : "37.7821",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lincoln Park playground",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "None",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4936",
+    "latitude" : "37.7821",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Judah St & La Playa St",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "None",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50892",
+    "latitude" : "37.76014",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Great Hwy & Judah St",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50956",
+    "latitude" : "37.76026",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noah's Bagels",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "100 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399964",
+    "latitude" : "37.791569",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Boulange Cafe & Bakery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1000 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449454",
+    "latitude" : "37.764769",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "AMC Theater",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1000 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420018",
+    "latitude" : "37.785172",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "McKinley ES",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1025 14TH ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43589",
+    "latitude" : "37.76703",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "AIDS/LifeCycle office?",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1035 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410785",
+    "latitude" : "37.781219",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Piper's Jewelers",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1066 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411742",
+    "latitude" : "37.781799",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Huckleberry Bicycles",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1073 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411615",
+    "latitude" : "37.780644",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Veritable Vegetable",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1100 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38902",
+    "latitude" : "37.750453",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1115 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422191",
+    "latitude" : "37.785378",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Brown Owl Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1131 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.478566",
+    "latitude" : "37.742768",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "B^3 Artisan Wine Burgers",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1152 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421195",
+    "latitude" : "37.754467",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Coffee to the People",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1206 MASONIC AVE",
+  "street_name" : "MASONIC",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.444985",
+    "latitude" : "37.770055",
+    "human_address" : "{\"address\":\"MASONIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sam's Diner",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1220 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415608",
+    "latitude" : "37.778524",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bay 1 Fitness",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1234 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415798",
+    "latitude" : "37.778501",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Yoga Tree",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1234 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421046",
+    "latitude" : "37.753105",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Heart Wine Bar / Arizmendi",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "1270 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421014",
+    "latitude" : "37.752546",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Everybody Bikes",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1288 15TH AVE",
+  "street_name" : "15TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.472606",
+    "latitude" : "37.763987",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Golden Natural Foods",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "130 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429443",
+    "latitude" : "37.768854",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "INTERSECTION LOCATION",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1301 GREAT HWY",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50938083",
+    "latitude" : "37.76136744",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Urban Fauna Studio (CLOSED)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1315 16TH AVE",
+  "street_name" : "16TH AVE",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.47407295",
+    "latitude" : "37.7634497",
+    "human_address" : "{\"address\":\"16TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Braindrops",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "1324 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.444173",
+    "latitude" : "37.770594",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dekko Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1325 INDIANA ST",
+  "street_name" : "INDIANA",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.390415",
+    "latitude" : "37.75368",
+    "human_address" : "{\"address\":\"INDIANA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Painted Bird - Clothing",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1360 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420858",
+    "latitude" : "37.751054",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Women's Initiative for Self Employment",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1398 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42082",
+    "latitude" : "37.750649",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Little Griddle",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1400 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418218",
+    "latitude" : "37.77633",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ma'velous",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1408 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418218",
+    "latitude" : "37.77633",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dovre Club",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1498 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42066401",
+    "latitude" : "37.74902617",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "H & M",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "150 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404613",
+    "latitude" : "37.789069",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bastet's Kindle",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1501 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.474073",
+    "latitude" : "37.76345",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Salvation Army",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1509 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419976",
+    "latitude" : "37.748724",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "A Laundromat",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1528 15TH ST",
+  "street_name" : "15TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41831658",
+    "latitude" : "37.7669649",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nueva Castilla Company",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1555 GALVEZ AVE",
+  "street_name" : "GALVEZ",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.387337",
+    "latitude" : "37.740159",
+    "human_address" : "{\"address\":\"GALVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yosemite Business Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1555 YOSEMITE AVE",
+  "street_name" : "YOSEMITE",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391017",
+    "latitude" : "37.726006",
+    "human_address" : "{\"address\":\"YOSEMITE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Garden for the Environment",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1570 07TH AVE",
+  "street_name" : "07TH AVE",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46357302",
+    "latitude" : "37.75911093",
+    "human_address" : "{\"address\":\"07TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "AutoZone",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1575 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415563",
+    "latitude" : "37.748489",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noe Valley Physical Therapy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1579 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.428601",
+    "latitude" : "37.743914",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Nothing Cinema",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "16 SHERMAN ST",
+  "street_name" : "SHERMAN",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406713",
+    "latitude" : "37.776936",
+    "human_address" : "{\"address\":\"SHERMAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Gratitude (CLOSED)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "160 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417032",
+    "latitude" : "37.768697",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "YMCA Bay View",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1601 LANE ST",
+  "street_name" : "LANE",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.389581",
+    "latitude" : "37.731805",
+    "human_address" : "{\"address\":\"LANE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Ave - Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1607 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.459553",
+    "latitude" : "37.724316",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ozumo Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "161 STEUART ST",
+  "street_name" : "STEUART",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391982",
+    "latitude" : "37.792699",
+    "human_address" : "{\"address\":\"STEUART\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "FTC Skateboarding",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1632 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449201",
+    "latitude" : "37.770005",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mudpie",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1694 UNION ST",
+  "street_name" : "UNION",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4271",
+    "latitude" : "37.798373",
+    "human_address" : "{\"address\":\"UNION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Crepe House, The",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1755 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421381",
+    "latitude" : "37.793038",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nihon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1779 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41529",
+    "latitude" : "37.768697",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Dental",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1794 SAN JOSE AVE",
+  "street_name" : "SAN JOSE",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.440091",
+    "latitude" : "37.729197",
+    "human_address" : "{\"address\":\"SAN JOSE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bank of the West",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "180 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401969",
+    "latitude" : "37.790736",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Underdogs Sports Bar and Grill",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1824 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.477652",
+    "latitude" : "37.763789",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "High Trails Cyclery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1825 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421649",
+    "latitude" : "37.793836",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Women's Community Clinic",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "1833 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433649",
+    "latitude" : "37.786489",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St John the Evangelist Catholic Church",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "19 SAINT MARYS AVE",
+  "street_name" : "SAINT MARYS",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.426832",
+    "latitude" : "37.733979",
+    "human_address" : "{\"address\":\"SAINT MARYS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Three Bees Nursery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1921 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.480051",
+    "latitude" : "37.781991",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MediThrive",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1933 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419434",
+    "latitude" : "37.766272",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Beach Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "198 GUERRERO ST",
+  "street_name" : "GUERRERO",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424702",
+    "latitude" : "37.768139",
+    "human_address" : "{\"address\":\"GUERRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Banana Republic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39847275",
+    "latitude" : "37.79479859",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "A Jeweler's Place",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2015 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.48042796",
+    "latitude" : "37.77633711",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Home Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2100 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429432",
+    "latitude" : "37.767509",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Homeless shelter",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2111 JENNINGS ST",
+  "street_name" : "JENNINGS",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.388658",
+    "latitude" : "37.726728",
+    "human_address" : "{\"address\":\"JENNINGS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blackbird Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2124 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42969",
+    "latitude" : "37.767339",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Workspace Artists Studio",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2150 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415421",
+    "latitude" : "37.762836",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Joe's Barber Shop",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2150 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430197",
+    "latitude" : "37.767059",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "John's Wash and Dry",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "217 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418257",
+    "latitude" : "37.768188",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Independent Living Skills Program",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "225 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422042",
+    "latitude" : "37.769442",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bio Scrip",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2262 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432476",
+    "latitude" : "37.76516",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Flore",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2298 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432944",
+    "latitude" : "37.764657",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "nojo restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "231 FRANKLIN ST",
+  "street_name" : "FRANKLIN",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421586",
+    "latitude" : "37.776796",
+    "human_address" : "{\"address\":\"FRANKLIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "D & H Jewelers",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2323 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433627",
+    "latitude" : "37.763344",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Om Shan Tea",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "233 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418647",
+    "latitude" : "37.768155",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Avedano's Meats",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "235 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418871",
+    "latitude" : "37.739645",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yoga Tree",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "24 SHOTWELL ST",
+  "street_name" : "SHOTWELL",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416973",
+    "latitude" : "37.767987",
+    "human_address" : "{\"address\":\"SHOTWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Runaway Films",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "2440 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408102",
+    "latitude" : "37.763384",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SoMa Wines",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "246 02ND ST",
+  "street_name" : "02ND ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397398",
+    "latitude" : "37.785746",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "25 POINT LOBOS AVE",
+  "street_name" : "POINT LOBOS",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.503565",
+    "latitude" : "37.779429",
+    "human_address" : "{\"address\":\"POINT LOBOS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Herb Co",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "250 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418765",
+    "latitude" : "37.768639",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Third Street Boxing Gym",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2576 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.388509",
+    "latitude" : "37.756961",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Artillery Apparel Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2751 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418164",
+    "latitude" : "37.753063",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Inglesia Zion",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2762 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414487",
+    "latitude" : "37.753073",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Chocolate Factory / Bridge Brands Chocolate",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "286 12TH ST",
+  "street_name" : "12TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415416",
+    "latitude" : "37.770896",
+    "human_address" : "{\"address\":\"12TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "R Image Market",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2898 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414245",
+    "latitude" : "37.75102",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lutheran Social Services of Northern CA",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "290 08TH ST",
+  "street_name" : "08TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410565",
+    "latitude" : "37.775075",
+    "human_address" : "{\"address\":\"08TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Yoga to the People",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "2973 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419029",
+    "latitude" : "37.764849",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Internet Archive",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 FUNSTON AVE",
+  "street_name" : "FUNSTON",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.471711",
+    "latitude" : "37.782308",
+    "human_address" : "{\"address\":\"FUNSTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Skunk Funk",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "302 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422484",
+    "latitude" : "37.767855",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blue Bottle Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "315 LINDEN ST",
+  "street_name" : "LINDEN",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423337",
+    "latitude" : "37.776225",
+    "human_address" : "{\"address\":\"LINDEN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Root Division",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3175 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416699",
+    "latitude" : "37.763374",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Elixir Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3200 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42433045",
+    "latitude" : "37.76499218",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Royal Cuckoo",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3202 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42035593",
+    "latitude" : "37.74539687",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Harvest Mills Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3216 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413809",
+    "latitude" : "37.74671",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gama-Go",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "335 08TH ST",
+  "street_name" : "08TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409386",
+    "latitude" : "37.774976",
+    "human_address" : "{\"address\":\"08TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "POWER",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "335 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417382",
+    "latitude" : "37.767832",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Day Labor Program",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3358 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417195",
+    "latitude" : "37.748442",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hazel & Gertie's Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3385 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422801",
+    "latitude" : "37.754948",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3398 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422191",
+    "latitude" : "37.742562",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "3400 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418662",
+    "latitude" : "37.748497",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Addiction Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "350 ALABAMA ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412601",
+    "latitude" : "37.764816",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "office building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "360 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402028",
+    "latitude" : "37.792177",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Bi-Rite Creamery",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "3692 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425715",
+    "latitude" : "37.761586",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Four Barrel Coffee",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "375 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421772",
+    "latitude" : "37.767017",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Refried Cycles",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3804 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431037",
+    "latitude" : "37.762948",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Frances Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3870 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432243",
+    "latitude" : "37.762875",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Barber Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "393 ASHTON AVE",
+  "street_name" : "ASHTON",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46249811",
+    "latitude" : "37.72503036",
+    "human_address" : "{\"address\":\"ASHTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Irma's Richmond Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3950 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.501453",
+    "latitude" : "37.77577",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Last Call bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3988 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43256038",
+    "latitude" : "37.76119218",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "7-Eleven",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3998 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43256",
+    "latitude" : "37.761192",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kasa Indian Eatery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4001 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432958",
+    "latitude" : "37.76082",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thai Cottage",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4041 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50555",
+    "latitude" : "37.760229",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbucks",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4094 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434701",
+    "latitude" : "37.761095",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Spunk Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4147 19TH ST",
+  "street_name" : "19TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43579",
+    "latitude" : "37.759034",
+    "human_address" : "{\"address\":\"19TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Asta Yoga",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "417 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422709",
+    "latitude" : "37.767842",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Office Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "433 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401668",
+    "latitude" : "37.792686",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ever Gold Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "441 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41195767",
+    "latitude" : "37.78564218",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Rooky Ricardo's Records",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "448 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429703",
+    "latitude" : "37.772488",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Medical / Dental building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "450 SUTTER ST",
+  "street_name" : "SUTTER ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407834",
+    "latitude" : "37.789657",
+    "human_address" : "{\"address\":\"SUTTER ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Qbar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "456 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435432",
+    "latitude" : "37.761602",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bernal Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "461 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416697",
+    "latitude" : "37.739264",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Medical/Dental building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "490 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409757",
+    "latitude" : "37.788407",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Harvey's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435258",
+    "latitude" : "37.760682",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lori's Dinner",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408893",
+    "latitude" : "37.789439",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bank of America",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "501 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434701",
+    "latitude" : "37.760628",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pakwan Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "501 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41313871",
+    "latitude" : "37.78554572",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Under One Roof",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "518 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435328",
+    "latitude" : "37.760502",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Stingray Builders",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "544 ALABAMA ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41248936",
+    "latitude" : "37.76253195",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hotel Adagio",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "550 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412538",
+    "latitude" : "37.787098",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ted Baker",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "56 GRANT AVE",
+  "street_name" : "GRANT",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40470267",
+    "latitude" : "37.78751117",
+    "human_address" : "{\"address\":\"GRANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Saigon Sandwich",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "560 LARKIN ST",
+  "street_name" : "LARKIN",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41722456",
+    "latitude" : "37.7831702",
+    "human_address" : "{\"address\":\"LARKIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "GitHub",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "589 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397672",
+    "latitude" : "37.786906",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Stefano's Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "59 30TH ST",
+  "street_name" : "30TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423092",
+    "latitude" : "37.742111",
+    "human_address" : "{\"address\":\"30TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pay N Save store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "599 GUERRERO ST",
+  "street_name" : "GUERRERO",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423615",
+    "latitude" : "37.761768",
+    "human_address" : "{\"address\":\"GUERRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beanery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "602 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464396",
+    "latitude" : "37.764302",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "625 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410677",
+    "latitude" : "37.788723",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "fitBERNALfit",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "701 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415106",
+    "latitude" : "37.739084",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "One Kearny",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "710 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403853",
+    "latitude" : "37.787707",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Swiss Nex",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "730 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403125",
+    "latitude" : "37.796228",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "749 TAYLOR ST",
+  "street_name" : "TAYLOR",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412368",
+    "latitude" : "37.789373",
+    "human_address" : "{\"address\":\"TAYLOR\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Argonne Community Garden",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "750 16TH AVE",
+  "street_name" : "16TH AVE",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.474057",
+    "latitude" : "37.773969",
+    "human_address" : "{\"address\":\"16TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Rehearsal Studios",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "76 MOSS ST",
+  "street_name" : "MOSS",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40789",
+    "latitude" : "37.777418",
+    "human_address" : "{\"address\":\"MOSS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Phelan Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "760 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405546",
+    "latitude" : "37.786459",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Sport and Spine Physical Therapy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "77 BATTERY ST",
+  "street_name" : "BATTERY",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399989",
+    "latitude" : "37.791941",
+    "human_address" : "{\"address\":\"BATTERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MASH",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "773 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430471",
+    "latitude" : "37.767375",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "776 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405546",
+    "latitude" : "37.786459",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Royale",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "800 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415268",
+    "latitude" : "37.7876",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hyde Street Wellness",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "815 HYDE ST",
+  "street_name" : "HYDE",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417256",
+    "latitude" : "37.788505",
+    "human_address" : "{\"address\":\"HYDE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kangaroos Play & Learn Activity Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "816 DIAMOND ST",
+  "street_name" : "DIAMOND",
+  "yr_installed" : "2011",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436551",
+    "latitude" : "37.750848",
+    "human_address" : "{\"address\":\"DIAMOND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Century Theater",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "816 LARKIN ST",
+  "street_name" : "LARKIN",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417683",
+    "latitude" : "37.785484",
+    "human_address" : "{\"address\":\"LARKIN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Guadalupe Elementary School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "859 PRAGUE ST",
+  "street_name" : "PRAGUE",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434031",
+    "latitude" : "37.710183",
+    "human_address" : "{\"address\":\"PRAGUE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Francis Memorial Hospital",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "900 HYDE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416554",
+    "latitude" : "37.789631",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rickshaw Bagworks",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "904 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.390585",
+    "latitude" : "37.758032",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "DOC-FAI Martial Arts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "925 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.476169",
+    "latitude" : "37.742782",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tina's Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "929 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412592",
+    "latitude" : "37.789482",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Party Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "939 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2011",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417278",
+    "latitude" : "37.786894",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Mission Acupuncture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "94 29TH ST",
+  "street_name" : "29TH ST",
+  "yr_installed" : "2011",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422276",
+    "latitude" : "37.744171",
+    "human_address" : "{\"address\":\"29TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Radio Shack",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "942 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408823",
+    "latitude" : "37.783768",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blick Arts Materials",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "979 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409531",
+    "latitude" : "37.782281",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Streetwise Skate Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "981 GENEVA AVE",
+  "street_name" : "GENEVA",
+  "yr_installed" : "2011",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.439534",
+    "latitude" : "37.716071",
+    "human_address" : "{\"address\":\"GENEVA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Art Gallery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "994 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2011",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41033991",
+    "latitude" : "37.78268892",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Liberties Irish Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "998 GUERRERO ST",
+  "street_name" : "GUERRERO",
+  "yr_installed" : "2011",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423539",
+    "latitude" : "37.755279",
+    "human_address" : "{\"address\":\"GUERRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Avalon at Ocean",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1150 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.454994",
+    "latitude" : "37.723973",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Avalon at Ocean",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1150 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.454994",
+    "latitude" : "37.723973",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beretta",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1199 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420553",
+    "latitude" : "37.753848",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "multiple (Twitter)",
+  "spaces" : "200",
+  "racks" : "100",
+  "yr_inst" : "1355 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416395",
+    "latitude" : "37.776736",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Advance English Academy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1370 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415736",
+    "latitude" : "37.775738",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. James Infirmary",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1372 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41573603",
+    "latitude" : "37.77573822",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fox Plaza",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1390 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417361",
+    "latitude" : "37.777224",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Polk Street Boxing Gym",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1436 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420299",
+    "latitude" : "37.790266",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Raphael Weill Child Development Center",
+  "spaces" : "16",
+  "racks" : "8",
+  "yr_inst" : "1501 OFARRELL ST",
+  "street_name" : "ELLIS",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42950434",
+    "latitude" : "37.78300893",
+    "human_address" : "{\"address\":\"ELLIS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Rosa Parks Elementary School",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "1501 OFARRELL ST",
+  "street_name" : "ELLIS",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42950434",
+    "latitude" : "37.78300893",
+    "human_address" : "{\"address\":\"ELLIS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chomp N' Swig Cafe (was Cafe Mereb)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1541 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.475929",
+    "latitude" : "37.782213",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Goodwill",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1580 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418409",
+    "latitude" : "37.773853",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gaslamp",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1599 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41655",
+    "latitude" : "37.771759",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Matching Half Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1799 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.441426",
+    "latitude" : "37.777218",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Coffee Bar",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1890 BRYANT ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41103404",
+    "latitude" : "37.76310691",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "201 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394083",
+    "latitude" : "37.774704",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Traditions Elementary School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2049 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450267",
+    "latitude" : "37.773885",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Traditions Elementary School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2049 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450267",
+    "latitude" : "37.773885",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "UCSF Mount Zion",
+  "spaces" : "30",
+  "racks" : "15",
+  "yr_inst" : "2420 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2012",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44059",
+    "latitude" : "37.785443",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dogpatch Saloon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2496 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38856125",
+    "latitude" : "37.75815494",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Socratic Technologies, Inc.",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2505 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408689",
+    "latitude" : "37.762892",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dos Pinas",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "251 RHODE ISLAND ST",
+  "street_name" : "RHODE ISLAND",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402438",
+    "latitude" : "37.766752",
+    "human_address" : "{\"address\":\"RHODE ISLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Office Building / Gallery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "251 RHODE ISLAND ST",
+  "street_name" : "RHODE ISLAND",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402438",
+    "latitude" : "37.766752",
+    "human_address" : "{\"address\":\"RHODE ISLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dear Mom",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2700 16TH ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413521",
+    "latitude" : "37.765699",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Soccer Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2797 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414959",
+    "latitude" : "37.765084",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Galeria de la Raza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2857 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40933529",
+    "latitude" : "37.75251838",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Hour Fitness/Tully's/Wells Fargo",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "303 02ND ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395566",
+    "latitude" : "37.785292",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Southern Exposure",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3030 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411282",
+    "latitude" : "37.759325",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wise Sons Deli",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3150 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415346",
+    "latitude" : "37.752631",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ODC Theater",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3153 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416447",
+    "latitude" : "37.763389",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jewish Communtiy Center",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "3200 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.447385",
+    "latitude" : "37.787486",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Escape from New York Pizza",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "3242 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419552",
+    "latitude" : "37.755527",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Laughing Lotus Yoga Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3271 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425599",
+    "latitude" : "37.764434",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Escape from New York Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "333 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403057",
+    "latitude" : "37.790592",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Laurel Village Shopping Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3501 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45160895",
+    "latitude" : "37.78623443",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Claire's Deli",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3505 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424214",
+    "latitude" : "37.763009",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Her Majesty's Secret Beekeeper",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3520 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419665",
+    "latitude" : "37.758837",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "YMCA",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "360 18TH AVE",
+  "street_name" : "18TH AVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.476968",
+    "latitude" : "37.781271",
+    "human_address" : "{\"address\":\"18TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Delfina",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "3621 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424189",
+    "latitude" : "37.761362",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Riptide Bar",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "3639 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.505326",
+    "latitude" : "37.741572",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Judahlicious",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3906 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.504083",
+    "latitude" : "37.760685",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Maxfield's House of Coffee",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "398 DOLORES ST",
+  "street_name" : "DOLORES",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.426629",
+    "latitude" : "37.763155",
+    "human_address" : "{\"address\":\"DOLORES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flying Pig Bistro",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "433 SOUTH VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41724",
+    "latitude" : "37.766356",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gym 445",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "445 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46696",
+    "latitude" : "37.761893",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Good Life Grocery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "448 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2012",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416718",
+    "latitude" : "37.738893",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fluid Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "451 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.467058",
+    "latitude" : "37.761889",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Studio Valencia",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "455 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421641",
+    "latitude" : "37.76565",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Gregory's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 DE HARO ST",
+  "street_name" : "DE HARO",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401775",
+    "latitude" : "37.763351",
+    "human_address" : "{\"address\":\"DE HARO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bazaar Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5927 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.481196",
+    "latitude" : "37.783825",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Southern Pacific Brewing",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "620 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414118",
+    "latitude" : "37.760111",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "F.S.C Barber",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "696 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421906",
+    "latitude" : "37.761813",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Paragon Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "701 02ND ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38962498",
+    "latitude" : "37.78063023",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Paragon Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "701 02ND ST",
+  "street_name" : "02ND ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38962498",
+    "latitude" : "37.78063023",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "North Beach Citizens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "720 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411851",
+    "latitude" : "37.801752",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Benjamini Associates",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "720 YORK ST",
+  "street_name" : "YORK",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409203",
+    "latitude" : "37.759826",
+    "human_address" : "{\"address\":\"YORK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Amsterdam Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "937 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2012",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418776",
+    "latitude" : "37.785756",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Garden for SF Homeless Connect",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "None",
+  "street_name" : "OCTAVIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42383957",
+    "latitude" : "37.77416534",
+    "human_address" : "{\"address\":\"OCTAVIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Duboce Park",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "None",
+  "street_name" : "DUBOCE",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43311",
+    "latitude" : "37.76931",
+    "human_address" : "{\"address\":\"DUBOCE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The American Grilled Cheese Kitchen",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1 SOUTH PARK",
+  "street_name" : "02ND ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392835",
+    "latitude" : "37.782053",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Australian Fair",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1017 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41394",
+    "latitude" : "37.789299",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Saint Agnes Church",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1025 MASONIC AVE",
+  "street_name" : "MASONIC",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.445941",
+    "latitude" : "37.771618",
+    "human_address" : "{\"address\":\"MASONIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Paz Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1028 POTRERO AVE",
+  "street_name" : "POTRERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406929",
+    "latitude" : "37.75561",
+    "human_address" : "{\"address\":\"POTRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Raphael House",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1047 SUTTER ST",
+  "street_name" : "Sutter",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41755839",
+    "latitude" : "37.78783521",
+    "human_address" : "{\"address\":\"Sutter\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "De La Paz Coffee Roasters",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1081 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410229",
+    "latitude" : "37.779441",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "AQ Restaurant & Bar",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1085 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410328",
+    "latitude" : "37.779364",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Green Depot",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1090 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408474",
+    "latitude" : "37.771676",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SFMTA Customer Service",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "11 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41858064",
+    "latitude" : "37.77486203",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "bike shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1113 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412761",
+    "latitude" : "37.752388",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "American Gymnastics & Raise the Bar Fitness",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1117 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412598",
+    "latitude" : "37.779865",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Health Service System, City and County of San Francisco",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1145 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413247",
+    "latitude" : "37.779352",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Popular Workshop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1173 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41971065",
+    "latitude" : "37.7875399",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Animal Care & Control",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1200 15TH ST",
+  "street_name" : "15TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412946",
+    "latitude" : "37.767436",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hayes Convalescent Hospital",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1250 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437117",
+    "latitude" : "37.775419",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Basa Collective",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1326 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438524",
+    "latitude" : "37.776067",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1345 TURK ST",
+  "street_name" : "TURK",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431231",
+    "latitude" : "37.780318",
+    "human_address" : "{\"address\":\"TURK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Crocker Galleria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "135 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40304094",
+    "latitude" : "37.78953121",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbucks",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1370 SANSOME ST",
+  "street_name" : "SANSOME",
+  "yr_installed" : "2012",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40270714",
+    "latitude" : "37.80266445",
+    "human_address" : "{\"address\":\"SANSOME\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cumaica Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1398 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415956",
+    "latitude" : "37.775862",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Phone Booth Bar",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1398 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416459",
+    "latitude" : "37.750871",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Green Chiropractic Clinic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1406 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420787",
+    "latitude" : "37.750312",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "James Rolph Jr. Playground",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1451 HAMPSHIRE ST",
+  "street_name" : "26TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40623124",
+    "latitude" : "37.74972741",
+    "human_address" : "{\"address\":\"26TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Storek Building",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "149 09TH ST",
+  "street_name" : "09TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413628",
+    "latitude" : "37.77572",
+    "human_address" : "{\"address\":\"09TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Soulful Pilates",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1501 WALLER ST",
+  "street_name" : "WALLER",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448646",
+    "latitude" : "37.768697",
+    "human_address" : "{\"address\":\"WALLER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Haight Street Market",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1530 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.447629",
+    "latitude" : "37.770206",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Market Street Cycles",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1592 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420535",
+    "latitude" : "37.774578",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cupboard Pastry",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1596 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420535",
+    "latitude" : "37.774578",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Native American Health Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "160 CAPP ST",
+  "street_name" : "CAPP",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418881",
+    "latitude" : "37.764039",
+    "human_address" : "{\"address\":\"CAPP\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Alternatives Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1600 GUERRERO ST",
+  "street_name" : "GUERRERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422521",
+    "latitude" : "37.745435",
+    "human_address" : "{\"address\":\"GUERRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Public Works",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "161 ERIE ST",
+  "street_name" : "ERIE",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419248",
+    "latitude" : "37.768875",
+    "human_address" : "{\"address\":\"ERIE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "TRX Training Centers",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1660 PACIFIC AVE",
+  "street_name" : "PACIFIC",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4225691",
+    "latitude" : "37.7951568",
+    "human_address" : "{\"address\":\"PACIFIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Coffman Pool",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1700 VISITACION AVE",
+  "street_name" : "VISITACION",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41597",
+    "latitude" : "37.71358",
+    "human_address" : "{\"address\":\"VISITACION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chop Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1714 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.444669",
+    "latitude" : "37.774266",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jillian's",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "175 04TH ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4033519",
+    "latitude" : "37.78399572",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CVS Pharmacy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1760 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.460641",
+    "latitude" : "37.725357",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Workshop SF",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1798 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.441473",
+    "latitude" : "37.777571",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Foods Co",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1800 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416105",
+    "latitude" : "37.767852",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oscar's Burgers & Deli",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1850 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395985",
+    "latitude" : "37.750003",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Dailey Method",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1853 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424228",
+    "latitude" : "37.77078",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clement Mini Mart",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45929973",
+    "latitude" : "37.78340749",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jeremy's Department Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2 SOUTH PARK",
+  "street_name" : "SOUTH PARK AVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393236",
+    "latitude" : "37.782424",
+    "human_address" : "{\"address\":\"SOUTH PARK AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sacred Grounds Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2095 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45064856",
+    "latitude" : "37.77319424",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Cyprian's Episcopal Church",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2097 TURK BLVD",
+  "street_name" : "TURK",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.443361",
+    "latitude" : "37.778902",
+    "human_address" : "{\"address\":\"TURK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pizzetta 211",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "211 23RD AVE",
+  "street_name" : "23RD AVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.483031",
+    "latitude" : "37.78376",
+    "human_address" : "{\"address\":\"23RD AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Seedstore & Park Life",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "212 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.461803",
+    "latitude" : "37.783316",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pseudo Studios",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2180 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415388",
+    "latitude" : "37.762489",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Community Acupunture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "220 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422623",
+    "latitude" : "37.769443",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Caffe Capriccio",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2200 MASON ST",
+  "street_name" : "MASON",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4131",
+    "latitude" : "37.803964",
+    "human_address" : "{\"address\":\"MASON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Duc Loi Supermarket",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2200 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419761",
+    "latitude" : "37.761606",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Dark Room Theater",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2263 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418912",
+    "latitude" : "37.760878",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fix Studios",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "228 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422613",
+    "latitude" : "37.769337",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CPMC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2323 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431514",
+    "latitude" : "37.789874",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "John O'Connell HS",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2355 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41355523",
+    "latitude" : "37.75951537",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Grain D'Or",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "236 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.461803",
+    "latitude" : "37.783316",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Skin Salvation",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "2405 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410774",
+    "latitude" : "37.765342",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Metate Taqueria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2406 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4096",
+    "latitude" : "37.755761",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ASN Natural Stone",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2415 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40791",
+    "latitude" : "37.764156",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Recreation Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2450 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412999",
+    "latitude" : "37.758201",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2482 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41937768",
+    "latitude" : "37.75744036",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "B.B. Hawk / Source Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "25 DIVISION ST",
+  "street_name" : "DIVISION",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402529",
+    "latitude" : "37.769533",
+    "human_address" : "{\"address\":\"DIVISION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MCG Arcitecture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "250 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404817",
+    "latitude" : "37.789988",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Local's Corner",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2500 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409588",
+    "latitude" : "37.754253",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bloodhound",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "2501 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409029",
+    "latitude" : "37.75418",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Peabody Elementary School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "251 06TH AVE",
+  "street_name" : "06TH AVE",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464794",
+    "latitude" : "37.783934",
+    "human_address" : "{\"address\":\"06TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Animal Connection",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2550 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.489669",
+    "latitude" : "37.761333",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Advanced Allergy Solutions",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "257 OAK ST",
+  "street_name" : "OAK",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423489",
+    "latitude" : "37.774643",
+    "human_address" : "{\"address\":\"OAK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Moscone Elementry",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2576 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41275068",
+    "latitude" : "37.75682684",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pauline's Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "260 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422565",
+    "latitude" : "37.768654",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "South Sunset Playground",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2601 40TH AVE",
+  "street_name" : "VICENTE",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.498452",
+    "latitude" : "37.737387",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Advent of Christ the King",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "261 FELL ST",
+  "street_name" : "Fell",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422067",
+    "latitude" : "37.775781",
+    "human_address" : "{\"address\":\"Fell\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wok & Go Chinese Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2700 24TH ST",
+  "street_name" : "POTRERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406691",
+    "latitude" : "37.753148",
+    "human_address" : "{\"address\":\"POTRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nutrition & Kids",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2704 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406691",
+    "latitude" : "37.753148",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Steven Wolf Fine Arts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2747 19TH ST",
+  "street_name" : "19TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409533",
+    "latitude" : "37.75966",
+    "human_address" : "{\"address\":\"19TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Roll",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "275 RHODE ISLAND ST",
+  "street_name" : "RHODE ISLAND",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402438",
+    "latitude" : "37.766752",
+    "human_address" : "{\"address\":\"RHODE ISLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Serve-U Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2750 21ST ST",
+  "street_name" : "21ST ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409798",
+    "latitude" : "37.757799",
+    "human_address" : "{\"address\":\"21ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Pig and Whistle Bar and Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2801 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449142",
+    "latitude" : "37.781888",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Spark Chiropractic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "284 29TH ST",
+  "street_name" : "29TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.426367",
+    "latitude" : "37.743841",
+    "human_address" : "{\"address\":\"29TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Samy's Liquors",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2845 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408791",
+    "latitude" : "37.752592",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Yoga Society of SF",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2872 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414328",
+    "latitude" : "37.751435",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Poc Chuc",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2886 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41709",
+    "latitude" : "37.765469",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "la Victoria Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2937 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410756",
+    "latitude" : "37.75252",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Puerto Alegre",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2950 25TH ST",
+  "street_name" : "25TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409183",
+    "latitude" : "37.751378",
+    "human_address" : "{\"address\":\"25TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mozzo Bike Apparel",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2979 21ST ST",
+  "street_name" : "21ST ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414007",
+    "latitude" : "37.757145",
+    "human_address" : "{\"address\":\"21ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "United Barbell (CrossFit SOMA)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 BRANNAN ST",
+  "street_name" : "BRANNAN",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392547",
+    "latitude" : "37.781823",
+    "human_address" : "{\"address\":\"BRANNAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "DeLessio Market and Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "302 BRODERICK ST",
+  "street_name" : "BRODERICK",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438756",
+    "latitude" : "37.77344",
+    "human_address" : "{\"address\":\"BRODERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fredericksen Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3029 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43586661",
+    "latitude" : "37.79748991",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Glama Rama",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "304 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422484",
+    "latitude" : "37.767855",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Push Bike",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3049 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415315",
+    "latitude" : "37.755462",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Comix Experience",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "305 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437608",
+    "latitude" : "37.772415",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nopalito",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "306 BRODERICK ST",
+  "street_name" : "BRODERICK",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438756",
+    "latitude" : "37.77344",
+    "human_address" : "{\"address\":\"BRODERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Falletti Foods-Store Products-San Francisco, CA",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "308 BRODERICK ST",
+  "street_name" : "BRODERICK",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438756",
+    "latitude" : "37.77344",
+    "human_address" : "{\"address\":\"BRODERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Peet's Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "310 BRODERICK ST",
+  "street_name" : "BRODERICK",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438756",
+    "latitude" : "37.77344",
+    "human_address" : "{\"address\":\"BRODERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Local Mission Eatery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3111 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414447",
+    "latitude" : "37.752251",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Baby Blues BBQ",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3149 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418784",
+    "latitude" : "37.746873",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "317 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.469041",
+    "latitude" : "37.737588",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fatted Calf Charcuterie",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "320 FELL ST",
+  "street_name" : "FELL",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423195",
+    "latitude" : "37.77616",
+    "human_address" : "{\"address\":\"FELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Guitarworks",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "323 POTRERO AVE",
+  "street_name" : "POTRERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407164",
+    "latitude" : "37.765385",
+    "human_address" : "{\"address\":\"POTRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kadist Art Foundation",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3295 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414368",
+    "latitude" : "37.758745",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jamestown Community Center",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "3382 26TH ST",
+  "street_name" : "26TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417686",
+    "latitude" : "37.749243",
+    "human_address" : "{\"address\":\"26TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beautifull",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3401 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450222",
+    "latitude" : "37.786413",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hog & Rocks",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3431 19TH ST",
+  "street_name" : "19TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419844",
+    "latitude" : "37.760033",
+    "human_address" : "{\"address\":\"19TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "shopping complex",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "360 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.470191",
+    "latitude" : "37.737403",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bathsense",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3600 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45217402",
+    "latitude" : "37.78776064",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3601 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.453538",
+    "latitude" : "37.786141",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Healthy Pets",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "373 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.469889",
+    "latitude" : "37.736885",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noe Valley Wine Merchants",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3821 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.427941",
+    "latitude" : "37.751419",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Giovanni's Pizza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3839 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424367",
+    "latitude" : "37.735522",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nooworks",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "395 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42175253",
+    "latitude" : "37.76681106",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Red Hill Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "401 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417618",
+    "latitude" : "37.739365",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chinese American International School",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "42 WALLER ST",
+  "street_name" : "WALLER",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42423",
+    "latitude" : "37.772228",
+    "human_address" : "{\"address\":\"WALLER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Biergarten/Patricia's Green",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "424 OCTAVIA ST",
+  "street_name" : "OCTAVIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424176",
+    "latitude" : "37.776039",
+    "human_address" : "{\"address\":\"OCTAVIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sunset Co-op Nursery School",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "4245 LAWTON ST",
+  "street_name" : "LAWTON",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.508503",
+    "latitude" : "37.756384",
+    "human_address" : "{\"address\":\"LAWTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Soma Streat Food Park",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "428 11TH ST",
+  "street_name" : "11TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411897",
+    "latitude" : "37.769777",
+    "human_address" : "{\"address\":\"11TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beachside Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4300 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.508258",
+    "latitude" : "37.760569",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Page Street Community Garden",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "440 PAGE ST",
+  "street_name" : "PAGE",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4281015",
+    "latitude" : "37.77362331",
+    "human_address" : "{\"address\":\"PAGE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gaetani Bldg",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4444 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.467192",
+    "latitude" : "37.781198",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "3 Fish Studios",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4541 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50675",
+    "latitude" : "37.762008",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cajun Pacific Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4542 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50692014",
+    "latitude" : "37.7623913",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "David Baker + Partners Architects",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "461 02ND ST #127 C",
+  "street_name" : "02ND ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393581",
+    "latitude" : "37.783699",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Unionmade",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "493 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430285",
+    "latitude" : "37.761336",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Eats",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "50 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.459883",
+    "latitude" : "37.783301",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rooftop ES",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "500 CORBETT AVE",
+  "street_name" : "CORBETT",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4445",
+    "latitude" : "37.757396",
+    "human_address" : "{\"address\":\"CORBETT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbucks",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "505 SANSOME ST",
+  "street_name" : "SANSOME",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401823",
+    "latitude" : "37.795071",
+    "human_address" : "{\"address\":\"SANSOME\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Care Practice Medical Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "508 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42488",
+    "latitude" : "37.76819",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ross",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5200 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.475632",
+    "latitude" : "37.780836",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SFPUC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "525 GOLDEN GATE AVE",
+  "street_name" : "GOLDEN GATE",
+  "yr_installed" : "2012",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419174",
+    "latitude" : "37.780929",
+    "human_address" : "{\"address\":\"GOLDEN GATE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Surreal You Hair Design",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "538 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.463898",
+    "latitude" : "37.764304",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "540 Club",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "540 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46511054",
+    "latitude" : "37.78317911",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Natural Path Media",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "548 04TH ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397711",
+    "latitude" : "37.778773",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Upper Haight Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "554 CLAYTON ST",
+  "street_name" : "CLAYTON",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448334",
+    "latitude" : "37.770047",
+    "human_address" : "{\"address\":\"CLAYTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Telegraph Hill Neighborhood Center",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "555 CHESTNUT ST",
+  "street_name" : "CHESTNUT",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41254",
+    "latitude" : "37.803444",
+    "human_address" : "{\"address\":\"CHESTNUT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bistro Central Parc",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "560 CENTRAL AVE",
+  "street_name" : "CENTRAL",
+  "yr_installed" : "2012",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44428",
+    "latitude" : "37.775002",
+    "human_address" : "{\"address\":\"CENTRAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gables Sationary",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5626 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.479951",
+    "latitude" : "37.780621",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hartford Street Zen Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "57 HARTFORD ST",
+  "street_name" : "HARTFORD",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433638",
+    "latitude" : "37.76159",
+    "human_address" : "{\"address\":\"HARTFORD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chrome Industries",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "580 04TH ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397079",
+    "latitude" : "37.778455",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rossi Pool",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "600 ARGUELLO BLVD",
+  "street_name" : "ARGUELLO",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.457436",
+    "latitude" : "37.778784",
+    "human_address" : "{\"address\":\"ARGUELLO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Delancy Street Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "600 THE EMBARCADERO",
+  "street_name" : "EMBARCADERO",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.388893",
+    "latitude" : "37.783486",
+    "human_address" : "{\"address\":\"EMBARCADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rackspace / SF Wine Exchange / Meez / ICFI",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "620 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397582",
+    "latitude" : "37.785271",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Junipero Serra Elementary School",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "625 HOLLY PARK CIR",
+  "street_name" : "HOLLY PARK",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42148873",
+    "latitude" : "37.73691009",
+    "human_address" : "{\"address\":\"HOLLY PARK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "R&G Lounge",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "631 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404929",
+    "latitude" : "37.794123",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dong Baek",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "631 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2012",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4151204",
+    "latitude" : "37.78523999",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Empty Space",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "644 LAGUNA ST",
+  "street_name" : "LAGUNA",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.426162",
+    "latitude" : "37.777238",
+    "human_address" : "{\"address\":\"LAGUNA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bike Kitchen / Adventurous Sports",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "650 ALABAMA ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412334",
+    "latitude" : "37.760916",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "In-Symmetry",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "650 FLORIDA ST",
+  "street_name" : "FLORIDA",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411506",
+    "latitude" : "37.761034",
+    "human_address" : "{\"address\":\"FLORIDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thai Thai Gourmet Thai Food",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "653 CLAY ST",
+  "street_name" : "CLAY",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403967",
+    "latitude" : "37.794326",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "OM Power SF",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "66 TOWNSEND ST",
+  "street_name" : "TOWNSEND",
+  "yr_installed" : "2012",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.390353",
+    "latitude" : "37.781388",
+    "human_address" : "{\"address\":\"TOWNSEND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Eight Inc",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "675 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405694",
+    "latitude" : "37.79228",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Live Fit Gym",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "675 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421334",
+    "latitude" : "37.762037",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "City College of SF Chinatown / North Beach Campus",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "680 WASHINGTON ST",
+  "street_name" : "WASHINGTON",
+  "yr_installed" : "2012",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404753",
+    "latitude" : "37.795374",
+    "human_address" : "{\"address\":\"WASHINGTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Creamery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "685 04TH ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39525127",
+    "latitude" : "37.77771931",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tacos Los Altos",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "737 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2012",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414912",
+    "latitude" : "37.739059",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Art Explosion",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "744 ALABAMA ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412101",
+    "latitude" : "37.759839",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "farm:table",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "754 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41433",
+    "latitude" : "37.787826",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "DPH Clinic",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "755 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2012",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416734",
+    "latitude" : "37.761051",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Department Seventeen",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "78 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2012",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422066",
+    "latitude" : "37.773435",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ATS Auto Body",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "780 BRANNAN ST",
+  "street_name" : "GILBERT ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402843",
+    "latitude" : "37.773525",
+    "human_address" : "{\"address\":\"GILBERT ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Amiti's Deli Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "800 MASONIC AVE",
+  "street_name" : "MASONIC",
+  "yr_installed" : "2012",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.445833",
+    "latitude" : "37.773847",
+    "human_address" : "{\"address\":\"MASONIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The President",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "935 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2012",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418639",
+    "latitude" : "37.785773",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Bay Public Library",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "960 04TH ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "2012",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394083",
+    "latitude" : "37.774704",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oak Fair Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "999 OAK ST",
+  "street_name" : "OAK",
+  "yr_installed" : "2012",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43546325",
+    "latitude" : "37.77322954",
+    "human_address" : "{\"address\":\"OAK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Show Dogs Sausages",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1020 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410989",
+    "latitude" : "37.782044",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "FoodLab / Renoir Hotel / Rio Grande Cafe / Trailhead",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1108 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41247",
+    "latitude" : "37.780901",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Art Institute of California",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1170 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414301",
+    "latitude" : "37.779497",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oakside Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1195 OAK ST",
+  "street_name" : "OAK",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438887",
+    "latitude" : "37.772737",
+    "human_address" : "{\"address\":\"OAK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Guerrero Cleaners",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1198 GUERRERO ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423204",
+    "latitude" : "37.752101",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Beretta",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "1199 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420553",
+    "latitude" : "37.753848",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Andronico's Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1200 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.471168",
+    "latitude" : "37.764349",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Driftwood",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1225 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410297",
+    "latitude" : "37.774473",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Driftwood",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "1225 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410297",
+    "latitude" : "37.774473",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1285 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421189",
+    "latitude" : "37.787353",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1285 SUTTER ST",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421189",
+    "latitude" : "37.787353",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "130 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40304",
+    "latitude" : "37.790237",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Everybody Bikes",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1352 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.472606",
+    "latitude" : "37.763987",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple (Twitter)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1355 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416395",
+    "latitude" : "37.776736",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pi Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1432 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420748",
+    "latitude" : "37.749908",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Pi Bar",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1432 VALENCIA ST",
+  "street_name" : "Valencia",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420748",
+    "latitude" : "37.749908",
+    "human_address" : "{\"address\":\"Valencia\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Live Oak School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1555 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399458",
+    "latitude" : "37.763454",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Zuni Cafe",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1658 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42160815",
+    "latitude" : "37.77359976",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Macy's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "170 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40736346",
+    "latitude" : "37.78679591",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Say Media ",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "180 TOWNSEND ST",
+  "street_name" : "TOWNSEND ",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39260615",
+    "latitude" : "37.77936919",
+    "human_address" : "{\"address\":\"TOWNSEND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Truck",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "1900 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415783",
+    "latitude" : "37.766795",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Roxie Food Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1901 SAN JOSE AVE",
+  "street_name" : "SAN JOSE",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44121727",
+    "latitude" : "37.72668172",
+    "human_address" : "{\"address\":\"SAN JOSE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bend Yoga Studio",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1935 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448352",
+    "latitude" : "37.773364",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hamilton Recreation Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2001 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43632248",
+    "latitude" : "37.78437828",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rite Spot Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2099 FOLSOM ST",
+  "street_name" : "Folsom",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414915",
+    "latitude" : "37.763866",
+    "human_address" : "{\"address\":\"Folsom\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Sycamore, The",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "2140 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419734",
+    "latitude" : "37.762785",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Healthy Spirits",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2299 15TH ST",
+  "street_name" : "15TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43526612",
+    "latitude" : "37.76552712",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Homestead, The",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "2301 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414516",
+    "latitude" : "37.760396",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bikram Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2390 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419369",
+    "latitude" : "37.75877",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UCSF Mount Zion",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2420 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44059",
+    "latitude" : "37.785443",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Dear Mom",
+  "spaces" : "18",
+  "racks" : "9",
+  "yr_inst" : "2700 16TH ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413521",
+    "latitude" : "37.765699",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "San Francisco Zen Center",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "300 PAGE ST",
+  "street_name" : "PAGE",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.426055",
+    "latitude" : "37.773884",
+    "human_address" : "{\"address\":\"PAGE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Equinox",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "301 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40128",
+    "latitude" : "37.791834",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Atlas Cafe",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "3049 20TH ST",
+  "street_name" : "ALABAMA",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411406",
+    "latitude" : "37.758862",
+    "human_address" : "{\"address\":\"ALABAMA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "ActivSpace / Treat Street Bicycle Works",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "3150 18TH ST",
+  "street_name" : "TREAT AVE",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414256",
+    "latitude" : "37.762699",
+    "human_address" : "{\"address\":\"TREAT AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ODC Theater",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3153 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416447",
+    "latitude" : "37.763389",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jewish Communtiy Center",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "3200 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.447385",
+    "latitude" : "37.787486",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Fog Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "333 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42169002",
+    "latitude" : "37.76768496",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ODC Dance Commons",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "351 SHOTWELL ST",
+  "street_name" : "SHOTWELL",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415843",
+    "latitude" : "37.762811",
+    "human_address" : "{\"address\":\"SHOTWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Eagle",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "398 12TH ST",
+  "street_name" : "12TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41342",
+    "latitude" : "37.769982",
+    "human_address" : "{\"address\":\"12TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Firefly restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4288 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438257",
+    "latitude" : "37.751264",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4298 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438257",
+    "latitude" : "37.751264",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4304 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437405",
+    "latitude" : "37.760935",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Universal Martial Arts Academy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4348 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38970207",
+    "latitude" : "37.73825175",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oxenrose Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "448 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424119",
+    "latitude" : "37.777885",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Hour Fitness",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "45 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402524",
+    "latitude" : "37.78976",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Whole Foods",
+  "spaces" : "24",
+  "racks" : "12",
+  "yr_inst" : "450 RHODE ISLAND ST",
+  "street_name" : "Rhode Island",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402987",
+    "latitude" : "37.764113",
+    "human_address" : "{\"address\":\"Rhode Island\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UN Plaza",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "50 UNITED NATIONS PLZ",
+  "street_name" : "HYDE",
+  "yr_installed" : "2013",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413212",
+    "latitude" : "37.780535",
+    "human_address" : "{\"address\":\"HYDE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UN Plaza",
+  "spaces" : "20",
+  "racks" : "10",
+  "yr_inst" : "50 UNITED NATIONS PLZ",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413212",
+    "latitude" : "37.780535",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Green Apple Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "520 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464885",
+    "latitude" : "37.783189",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ArcoSports",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "639 FREDERICK ST",
+  "street_name" : "FREDERICK",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.455434",
+    "latitude" : "37.765769",
+    "human_address" : "{\"address\":\"FREDERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SPUR",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "654 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401235",
+    "latitude" : "37.787183",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "La Boulange Cafe & Bakery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "685 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402759",
+    "latitude" : "37.787646",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pasquale's Pizzeria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "700 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46554",
+    "latitude" : "37.764252",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Yoga Tree",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "780 STANYAN ST",
+  "street_name" : "Stanyan",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.452882",
+    "latitude" : "37.767783",
+    "human_address" : "{\"address\":\"Stanyan\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ross",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "799 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405265",
+    "latitude" : "37.785647",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Las Americas CDC (PreK & SA)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "801 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41275068",
+    "latitude" : "37.75682684",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bender's Bar and Grill",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "806 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417279",
+    "latitude" : "37.760199",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Westfield",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "835 MARKET ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406404",
+    "latitude" : "37.784397",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco State Downtown Campus",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "835 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40640396",
+    "latitude" : "37.78439675",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Juicy Couture / Timberland",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "845 MARKET ST",
+  "street_name" : "MARKET ",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40614459",
+    "latitude" : "37.78410039",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tourneau",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "845 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40614459",
+    "latitude" : "37.78410039",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Urban Mercantile / Vierra & Friends",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "85 CARL ST",
+  "street_name" : "CARL",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449515",
+    "latitude" : "37.765599",
+    "human_address" : "{\"address\":\"CARL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pacific Energy Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "851 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403495",
+    "latitude" : "37.782124",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Abercrombie & Fitch",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "865 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407158",
+    "latitude" : "37.783947",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "adidas",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "865 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407158",
+    "latitude" : "37.783947",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Westfield Centre / Harry David",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "865 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407158",
+    "latitude" : "37.783947",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Marshall's / Sports Basement / Stantec / multiple",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "901 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408041",
+    "latitude" : "37.78347",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Golden Gate Park Panhandle Children's Playground",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "None",
+  "street_name" : "None",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44794",
+    "latitude" : "37.7722",
+    "human_address" : "{\"address\":\"None\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pier 52 Boat Launch",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "None",
+  "street_name" : "TERRY A FRANCOIS",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38626",
+    "latitude" : "37.77098",
+    "human_address" : "{\"address\":\"TERRY A FRANCOIS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Polo Field",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "None",
+  "street_name" : "NULL",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49246",
+    "latitude" : "37.76827",
+    "human_address" : "{\"address\":\"NULL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "NextSpace",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1 HALLIDIE PLZ",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40877124",
+    "latitude" : "37.78413125",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "One Hawthorne",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1 HAWTHORNE ST",
+  "street_name" : "HAWTHORNE",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398876",
+    "latitude" : "37.785769",
+    "human_address" : "{\"address\":\"HAWTHORNE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blush School of Makeup",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39486524",
+    "latitude" : "37.79387152",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beer Hall, The",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418174",
+    "latitude" : "37.776682",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mi Tierra Supermarket",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1000 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407597",
+    "latitude" : "37.779704",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beast and the Hare",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1001 GUERRERO ST",
+  "street_name" : "Guerrero",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42293",
+    "latitude" : "37.754941",
+    "human_address" : "{\"address\":\"Guerrero\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Limon Rotisserie",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1001 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416424",
+    "latitude" : "37.75704",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Standard Plumbing Ace Hardware",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1019 CLEMENT ST",
+  "street_name" : "Clement",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.470288",
+    "latitude" : "37.782465",
+    "human_address" : "{\"address\":\"Clement\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Healthy Spirits",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1042 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.470532",
+    "latitude" : "37.78285",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bryant (PreK & SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1060 YORK ST",
+  "street_name" : "YORK",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408429",
+    "latitude" : "37.755047",
+    "human_address" : "{\"address\":\"YORK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Grass Roots",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1077 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419413",
+    "latitude" : "37.78663",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Urban Life Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1111 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42328652",
+    "latitude" : "37.78424924",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Let it Bleed Tattoo",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1124 POLK ST",
+  "street_name" : "Polk",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419719",
+    "latitude" : "37.787111",
+    "human_address" : "{\"address\":\"Polk\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ralph Gracie Jiu Jitsu",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1166 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411474",
+    "latitude" : "37.776808",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Tienda Santa Marta",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1201 GENEVA AVE",
+  "street_name" : "NAPLES",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435828",
+    "latitude" : "37.714337",
+    "human_address" : "{\"address\":\"NAPLES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Patelco Credit Union",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "124 02ND ST",
+  "street_name" : "02ND ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399566",
+    "latitude" : "37.787514",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Natural Mattress Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1243 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42076935",
+    "latitude" : "37.78740643",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bethany United Methodist Church",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1270 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429677",
+    "latitude" : "37.748899",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Green Twig Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1299 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.427127",
+    "latitude" : "37.750239",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Citibank",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "130 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.467752",
+    "latitude" : "37.739487",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "City Aikado",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1339 MISSION ST",
+  "street_name" : "Mission",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415028",
+    "latitude" : "37.775603",
+    "human_address" : "{\"address\":\"Mission\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jefferson Annex CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1351 25TH AVE",
+  "street_name" : "25TH AVE",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.48381527",
+    "latitude" : "37.76229986",
+    "human_address" : "{\"address\":\"25TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Murphy Investments Property Management",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1355 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420235",
+    "latitude" : "37.751292",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Pet Hospital",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1371 FULTON ST",
+  "street_name" : "FULTON",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.439247",
+    "latitude" : "37.776433",
+    "human_address" : "{\"address\":\"FULTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Soup Company",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "142 02ND ST",
+  "street_name" : "02ND ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399367",
+    "latitude" : "37.787297",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Redding (SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1421 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419254",
+    "latitude" : "37.789521",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Hollow",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1435 IRVING ST",
+  "street_name" : "IRVING",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.47346346",
+    "latitude" : "37.76347782",
+    "human_address" : "{\"address\":\"IRVING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Spring Valley (SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1451 JACKSON ST",
+  "street_name" : "JACKSON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418819",
+    "latitude" : "37.794006",
+    "human_address" : "{\"address\":\"JACKSON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nani's Day Care",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1456 YORK ST",
+  "street_name" : "YORK",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40809",
+    "latitude" : "37.748903",
+    "human_address" : "{\"address\":\"YORK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Front Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "150 MISSISSIPPI ST",
+  "street_name" : "MISSISSIPPI",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395182",
+    "latitude" : "37.764412",
+    "human_address" : "{\"address\":\"MISSISSIPPI\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fenix International",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1500 17TH ST",
+  "street_name" : "17th St",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399048",
+    "latitude" : "37.765356",
+    "human_address" : "{\"address\":\"17th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Computer Repair",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "151 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42205937",
+    "latitude" : "37.77115203",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Little School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1520 LYON ST",
+  "street_name" : "Lyon",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.444717",
+    "latitude" : "37.785136",
+    "human_address" : "{\"address\":\"Lyon\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Burnett CDC (as known as Leona Havard)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1520 OAKDALE AVE",
+  "street_name" : "OAKDALE",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.389127",
+    "latitude" : "37.734384",
+    "human_address" : "{\"address\":\"OAKDALE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "North East Medical Services",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1520 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408725",
+    "latitude" : "37.799941",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ROMA Design",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1527 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409416",
+    "latitude" : "37.800066",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hats on Fillmore",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1539 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43311958",
+    "latitude" : "37.78391755",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "King of Thai Noodle",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1541 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.482813",
+    "latitude" : "37.742489",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Juinipero Serra Annex CC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "155 APPLETON AVE",
+  "street_name" : "APPLETON",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421528",
+    "latitude" : "37.738777",
+    "human_address" : "{\"address\":\"APPLETON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Willows, The",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1582 FOLSOM ST",
+  "street_name" : "12TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415112",
+    "latitude" : "37.771141",
+    "human_address" : "{\"address\":\"12TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Kate Kennedy (SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1670 NOE ST",
+  "street_name" : "NOE",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43133526",
+    "latitude" : "37.74220688",
+    "human_address" : "{\"address\":\"NOE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Baha'i Faith",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "170 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422848",
+    "latitude" : "37.770431",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Le Petit Marchet",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1732 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420796",
+    "latitude" : "37.792902",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Noriega CDC (PreK & SA) / Francis Scott Key (SA) Satellite CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1775 44TH AVE",
+  "street_name" : "44TH AVE",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.503654",
+    "latitude" : "37.753834",
+    "human_address" : "{\"address\":\"44TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Church Produce",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1798 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42681",
+    "latitude" : "37.742207",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Emmy's Spaghetti Shack",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "18 VIRGINIA AVE",
+  "street_name" : "VIRGINIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4212802",
+    "latitude" : "37.74291873",
+    "human_address" : "{\"address\":\"VIRGINIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Adda Clevenger Jr Prep School",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "180 FAIR OAKS ST",
+  "street_name" : "FAIR OAKS",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424519",
+    "latitude" : "37.753701",
+    "human_address" : "{\"address\":\"FAIR OAKS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "startupHQ",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "185 CLARA ST",
+  "street_name" : "CLARA",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401682",
+    "latitude" : "37.779613",
+    "human_address" : "{\"address\":\"CLARA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "4505 Meats",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1909 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419527",
+    "latitude" : "37.766473",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Freewheel Hayes",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1920 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448154",
+    "latitude" : "37.773876",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "lululemon athletica",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1981 UNION ST",
+  "street_name" : "Union",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43181",
+    "latitude" : "37.797322",
+    "human_address" : "{\"address\":\"Union\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Zeitgeist",
+  "spaces" : "16",
+  "racks" : "8",
+  "yr_inst" : "199 VALENCIA ST",
+  "street_name" : "Duboce",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422098",
+    "latitude" : "37.770028",
+    "human_address" : "{\"address\":\"Duboce\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Duboce Park Cafe",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "2 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431623",
+    "latitude" : "37.769161",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cheese Plus",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2001 POLK ST",
+  "street_name" : "Polk",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421832",
+    "latitude" : "37.79523",
+    "human_address" : "{\"address\":\"Polk\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Discount Fabrics",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "201 11TH ST",
+  "street_name" : "11th St",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415069",
+    "latitude" : "37.773133",
+    "human_address" : "{\"address\":\"11th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Eldon D. Young DDS",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2022 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.483892",
+    "latitude" : "37.761644",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "John McLaren CDC (PreK & SA)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2055 SUNNYDALE AVE",
+  "street_name" : "SUNNYDALE",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421173",
+    "latitude" : "37.712404",
+    "human_address" : "{\"address\":\"SUNNYDALE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "New Traditions Elementary School",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2066 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4502669",
+    "latitude" : "37.77388542",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Contrada Bikes",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2078 UNION ST",
+  "street_name" : "UNION",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433519",
+    "latitude" : "37.797574",
+    "human_address" : "{\"address\":\"UNION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Project Commotion",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2095 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412706",
+    "latitude" : "37.76481",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential complex",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "21 CLARENCE PL",
+  "street_name" : "CLARENCE",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392511",
+    "latitude" : "37.779734",
+    "human_address" : "{\"address\":\"CLARENCE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Like Twice",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2125 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4125589",
+    "latitude" : "37.76326092",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Andrew Lesko, DC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "214 VALENCIA ST",
+  "street_name" : "Valencia",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422633",
+    "latitude" : "37.769548",
+    "human_address" : "{\"address\":\"Valencia\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blowfish Sushi",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2170 BRYANT ST",
+  "street_name" : "BRYANT ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41017901",
+    "latitude" : "37.75944171",
+    "human_address" : "{\"address\":\"BRYANT ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Brondell",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2183 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43614196",
+    "latitude" : "37.78543493",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Gracias Madre",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "2211 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418976",
+    "latitude" : "37.761549",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Accelerate Sports",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2215 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412047",
+    "latitude" : "37.805206",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "FFDG Art Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2277 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419113",
+    "latitude" : "37.760739",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "California Pacific Medical Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2324 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43143399",
+    "latitude" : "37.79061478",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Thrift",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2330 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41946047",
+    "latitude" : "37.75972892",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "16th and Kansas Streets Building LLC",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "235 KANSAS ST",
+  "street_name" : "Kansas",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403342",
+    "latitude" : "37.766425",
+    "human_address" : "{\"address\":\"Kansas\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Dominic's Catholic Church",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2390 BUSH ST",
+  "street_name" : "STEINER",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43578",
+    "latitude" : "37.787385",
+    "human_address" : "{\"address\":\"STEINER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Michael Mina Restaurant ",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "244 CALIFORNIA ST FLOOR 4",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39960404",
+    "latitude" : "37.79352003",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Russian Center of San Francsico",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2450 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.440916",
+    "latitude" : "37.785402",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Stewart's Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2498 SUTTER ST",
+  "street_name" : "SUTTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44141715",
+    "latitude" : "37.7852585",
+    "human_address" : "{\"address\":\"SUTTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Joe & Pat's Bakery & Coffee",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2499 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414245",
+    "latitude" : "37.757451",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blood Centers of the Pacific",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "250 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40199384",
+    "latitude" : "37.79131571",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Groove Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "251 FREMONT ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394793",
+    "latitude" : "37.788969",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Portola Family Connection",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2565 SAN BRUNO AVE",
+  "street_name" : "San Bruno",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404057",
+    "latitude" : "37.729476",
+    "human_address" : "{\"address\":\"San Bruno\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Excelsior @ Monroe (SA)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "260 MADRID ST",
+  "street_name" : "MADRID",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.430487",
+    "latitude" : "37.725399",
+    "human_address" : "{\"address\":\"MADRID\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Twilight Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2600 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.455054",
+    "latitude" : "37.775891",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Federal Union",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2645 OCEAN AVE",
+  "street_name" : "OCEAN",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.474188",
+    "latitude" : "37.731654",
+    "human_address" : "{\"address\":\"OCEAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Grand Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2663 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418292",
+    "latitude" : "37.754404",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Red Poppy Art House",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2698 FOLSOM ST",
+  "street_name" : "23RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414516",
+    "latitude" : "37.754201",
+    "human_address" : "{\"address\":\"23RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dr William Cobb (PreK and SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2725 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.439525",
+    "latitude" : "37.788026",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Renaissance Entrepreneurship Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "275 05TH ST",
+  "street_name" : "5TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403588",
+    "latitude" : "37.780732",
+    "human_address" : "{\"address\":\"5TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Universal Cafe",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "2814 19TH ST",
+  "street_name" : "19TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41064704",
+    "latitude" : "37.76062897",
+    "human_address" : "{\"address\":\"19TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Five Markets",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2824 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408705",
+    "latitude" : "37.753053",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ratio 3 Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2831 MISSION ST",
+  "street_name" : "Mission",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418013",
+    "latitude" : "37.751731",
+    "human_address" : "{\"address\":\"Mission\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Urban Farmer Store, The",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2833 VICENTE ST",
+  "street_name" : "40TH AVE / VICENTE ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.497688",
+    "latitude" : "37.738095",
+    "human_address" : "{\"address\":\"40TH AVE / VICENTE ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Alcoholics Anonymous",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2900 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410272",
+    "latitude" : "37.752898",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission CDC (PreK)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2950 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418557",
+    "latitude" : "37.749819",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Azucar Lounge ",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "299 09TH ST ",
+  "street_name" : "09TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41166783",
+    "latitude" : "37.77405807",
+    "human_address" : "{\"address\":\"09TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Speedway",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 PINE ST",
+  "street_name" : "PINE",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401242",
+    "latitude" : "37.792257",
+    "human_address" : "{\"address\":\"PINE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Levi's",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "300 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407093",
+    "latitude" : "37.78878",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Central Kitchen",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "3000 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411282",
+    "latitude" : "37.759325",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "City Cycle of San Francisco",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3001 STEINER ST",
+  "street_name" : "Steiner",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437418",
+    "latitude" : "37.797",
+    "human_address" : "{\"address\":\"Steiner\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mason Kirby Architecture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "301 BOCANA ST",
+  "street_name" : "BOCANA",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418445",
+    "latitude" : "37.73913",
+    "human_address" : "{\"address\":\"BOCANA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Live Fit Gym",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "301 FELL ST",
+  "street_name" : "Fell",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422976",
+    "latitude" : "37.775794",
+    "human_address" : "{\"address\":\"Fell\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Liberty Tax",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3026 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412527",
+    "latitude" : "37.752824",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mermaid Tattoo Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3032 MISSION ST",
+  "street_name" : "Mission",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418662",
+    "latitude" : "37.748497",
+    "human_address" : "{\"address\":\"Mission\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Alley Cat Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3036 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412687",
+    "latitude" : "37.752814",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Haus Coffee",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3086 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413704",
+    "latitude" : "37.752712",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Zoe's Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3088 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413791",
+    "latitude" : "37.752707",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Leonard R. Flynn CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3125 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411967",
+    "latitude" : "37.747745",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "CoffeeShop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3139 MISSION ST",
+  "street_name" : "Mission",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418653",
+    "latitude" : "37.746998",
+    "human_address" : "{\"address\":\"Mission\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chili Pie",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "314 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.428983",
+    "latitude" : "37.765894",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "A.P. Giannini MS",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3151 ORTEGA ST",
+  "street_name" : "ORTEGA",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49731133",
+    "latitude" : "37.74968004",
+    "human_address" : "{\"address\":\"ORTEGA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "7 Tepees",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3177 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41669867",
+    "latitude" : "37.76337359",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "FedEx",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3225 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.436189",
+    "latitude" : "37.799258",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Vintage a la Mode",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3234 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4461881",
+    "latitude" : "37.78856146",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mixed Nuts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3243 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49346421",
+    "latitude" : "37.77564299",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Mission Bartlett Garage",
+  "spaces" : "18",
+  "racks" : "9",
+  "yr_inst" : "3255 21ST ST",
+  "street_name" : "BARTLETT / MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420259",
+    "latitude" : "37.756164",
+    "human_address" : "{\"address\":\"BARTLETT / MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Presbyterian Church",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3261 23RD ST",
+  "street_name" : "23RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417709",
+    "latitude" : "37.753661",
+    "human_address" : "{\"address\":\"23RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "lululemon athletica",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "327 GRANT AVE",
+  "street_name" : "GRANT",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40587",
+    "latitude" : "37.79015",
+    "human_address" : "{\"address\":\"GRANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Office Depot",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "33 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402401",
+    "latitude" : "37.787173",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clementina Towers",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "330 CLEMENTINA ST",
+  "street_name" : "CLEMENTINA",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402758",
+    "latitude" : "37.782177",
+    "human_address" : "{\"address\":\"CLEMENTINA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Moxie Yoga",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3315 20TH ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41503",
+    "latitude" : "37.758739",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Little Tree Studios",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "3316 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421451",
+    "latitude" : "37.755476",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Campfire Art Gallery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3344 24TH ST",
+  "street_name" : "24th St",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41942751",
+    "latitude" : "37.75234202",
+    "human_address" : "{\"address\":\"24th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Barbary Coast / Mikkeller",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "34 MASON ST",
+  "street_name" : "MASON",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408981",
+    "latitude" : "37.783976",
+    "human_address" : "{\"address\":\"MASON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "One Smart Kid",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3442 SACRAMENTO ST",
+  "street_name" : "SACRAMENTO",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449468",
+    "latitude" : "37.78813",
+    "human_address" : "{\"address\":\"SACRAMENTO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "IEP Clinc",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3450 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429951",
+    "latitude" : "37.764691",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Ahorro",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3456 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422902",
+    "latitude" : "37.741458",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Sophie",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3463 16TH ST",
+  "street_name" : "16th St",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42997545",
+    "latitude" : "37.76420113",
+    "human_address" : "{\"address\":\"16th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Marina MS",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3500 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435481",
+    "latitude" : "37.801826",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Telegraph Crossfit",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3545 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45700623",
+    "latitude" : "37.78104305",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bessie Carmichael (PreK & SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "375 07TH ST",
+  "street_name" : "07TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406448",
+    "latitude" : "37.776091",
+    "human_address" : "{\"address\":\"07TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Orange",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "380 GUERRERO ST",
+  "street_name" : "GUERRERO",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424437",
+    "latitude" : "37.76517",
+    "human_address" : "{\"address\":\"GUERRERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walzwerk",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "381 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41731887",
+    "latitude" : "37.76717475",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "change.org",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "383 RHODE ISLAND ST",
+  "street_name" : "RHODE ISLAND",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402279",
+    "latitude" : "37.765023",
+    "human_address" : "{\"address\":\"RHODE ISLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mr S Leather",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "385 08TH ST",
+  "street_name" : "08TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408627",
+    "latitude" : "37.774253",
+    "human_address" : "{\"address\":\"08TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Omnivore Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3885 CESAR CHAVEZ ST",
+  "street_name" : "CESAR CHAVEZ",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42672436",
+    "latitude" : "37.74759086",
+    "human_address" : "{\"address\":\"CESAR CHAVEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cinnabar",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "397 ELLIS ST",
+  "street_name" : "JONES ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412529",
+    "latitude" : "37.784684",
+    "human_address" : "{\"address\":\"JONES ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "399 GOLDEN GATE AVE",
+  "street_name" : "GOLDEN GATE",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4168316",
+    "latitude" : "37.78119964",
+    "human_address" : "{\"address\":\"GOLDEN GATE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dmax Imaging",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "400 02ND ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395234",
+    "latitude" : "37.783898",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bath Sense and More",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "412 PRESIDIO ST",
+  "street_name" : "PRESIDIO",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44672587",
+    "latitude" : "37.78800857",
+    "human_address" : "{\"address\":\"PRESIDIO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hattery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "414 BRANNAN ST",
+  "street_name" : "BRANNAN",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39486849",
+    "latitude" : "37.77993078",
+    "human_address" : "{\"address\":\"BRANNAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "16th & Hoff Garage",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "42 HOFF ST",
+  "street_name" : "HOFF",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42070876",
+    "latitude" : "37.76436668",
+    "human_address" : "{\"address\":\"HOFF\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dash Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "420 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466575",
+    "latitude" : "37.762371",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Annex CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "421 BARTLETT ST",
+  "street_name" : "BARTLETT",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41920581",
+    "latitude" : "37.75027159",
+    "human_address" : "{\"address\":\"BARTLETT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Melisa's Chinese Cuisine",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "450 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.463741",
+    "latitude" : "37.777459",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Medical / Dental building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "450 SUTTER ST ",
+  "street_name" : "SUTTER ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407834",
+    "latitude" : "37.789657",
+    "human_address" : "{\"address\":\"SUTTER ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cup and Cakes Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "451 09TH ST",
+  "street_name" : "NINTH St",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409109",
+    "latitude" : "37.772118",
+    "human_address" : "{\"address\":\"NINTH St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UrbanCore Development",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "457 10TH ST",
+  "street_name" : "10TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410205",
+    "latitude" : "37.771068",
+    "human_address" : "{\"address\":\"10TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Welcome Stranger",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "460 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422764",
+    "latitude" : "37.777604",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Daniel Webster (SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "465 MISSOURI ST",
+  "street_name" : "MISSOURI",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395844",
+    "latitude" : "37.760521",
+    "human_address" : "{\"address\":\"MISSOURI\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lumatic",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "480 02ND ST",
+  "street_name" : "STILLMAN",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39425392",
+    "latitude" : "37.78319488",
+    "human_address" : "{\"address\":\"STILLMAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Doctor's Lounge",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4826 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437906",
+    "latitude" : "37.72097",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pacifisia Investment & Realty",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4829 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.47121811",
+    "latitude" : "37.78039659",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Excelsior Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4831 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437296",
+    "latitude" : "37.720941",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Alcatraz Gift and Tours",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "486 GEARY ST",
+  "street_name" : "GEARY",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411202",
+    "latitude" : "37.787159",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Katz Accident & Injury Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4877 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437808",
+    "latitude" : "37.720264",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Free Clinic",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "4900 CALIFORNIA ST",
+  "street_name" : "California",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.470104",
+    "latitude" : "37.784809",
+    "human_address" : "{\"address\":\"California\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hearst Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403033",
+    "latitude" : "37.78741",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Corner Store, The",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "5 MASONIC AVE",
+  "street_name" : "MASONIC",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.448016",
+    "latitude" : "37.782087",
+    "human_address" : "{\"address\":\"MASONIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Blue Shield of California / UCSF / multiple",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "50 BEALE ST",
+  "street_name" : "BEALE",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396457",
+    "latitude" : "37.791239",
+    "human_address" : "{\"address\":\"BEALE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Conservatory of Music",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "50 OAK ST",
+  "street_name" : "Oak",
+  "yr_installed" : "2013",
+  "mo_installed" : "2",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420277",
+    "latitude" : "37.775569",
+    "human_address" : "{\"address\":\"Oak\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Macys",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "50 OFARREL ST",
+  "street_name" : "OFARREL",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40595336",
+    "latitude" : "37.78697967",
+    "human_address" : "{\"address\":\"OFARREL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dr Charles Drew CDC (Pre-K and SA)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "50 POMONA ST",
+  "street_name" : "POMONA",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39381006",
+    "latitude" : "37.73213249",
+    "human_address" : "{\"address\":\"POMONA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Panorama Bakery",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "500 FLORIDA ST",
+  "street_name" : "FLORIDA",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411484",
+    "latitude" : "37.76259",
+    "human_address" : "{\"address\":\"FLORIDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Roxie Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 KIRKHAM ST",
+  "street_name" : "KIRKHAM",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466357",
+    "latitude" : "37.760477",
+    "human_address" : "{\"address\":\"KIRKHAM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Precita Park Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "500 PRECITA AVE",
+  "street_name" : "PRECITA",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410399",
+    "latitude" : "37.746972",
+    "human_address" : "{\"address\":\"PRECITA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clipper / Wiggle Bicycles",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "501 WALLER ST",
+  "street_name" : "WALLER",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432043",
+    "latitude" : "37.770657",
+    "human_address" : "{\"address\":\"WALLER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "AA Photography",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5112 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39196216",
+    "latitude" : "37.73220117",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cozy Cable Car Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "519 POWELL ST",
+  "street_name" : "POWELL",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40889284",
+    "latitude" : "37.78943926",
+    "human_address" : "{\"address\":\"POWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Pollo Supremo",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5210 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.442021",
+    "latitude" : "37.715611",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Las Palmas",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5251 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392154",
+    "latitude" : "37.729771",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Azteca Taqueria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5298 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39292011",
+    "latitude" : "37.729459",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "California Pizza Kitchen",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "53 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402401",
+    "latitude" : "37.787173",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5300 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393266",
+    "latitude" : "37.729006",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Krav Maga Institute",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "539 GOUGH ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423562",
+    "latitude" : "37.77842",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MUJI",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "540 09TH ST",
+  "street_name" : "9TH ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408183",
+    "latitude" : "37.770559",
+    "human_address" : "{\"address\":\"9TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "(Bi Rite Market)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "542 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43740025",
+    "latitude" : "37.77470397",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clubcard",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "553 PACIFIC AVE",
+  "street_name" : "PACIFIC",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40450246",
+    "latitude" : "37.79700342",
+    "human_address" : "{\"address\":\"PACIFIC\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mechanic's Institute",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "57 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403034",
+    "latitude" : "37.788747",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Emilios Barber Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5734 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45013052",
+    "latitude" : "37.7099416",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "PUBLIC Bikes",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "599 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421399",
+    "latitude" : "37.763536",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rare Device",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "600 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437517",
+    "latitude" : "37.775177",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. Cecila's School",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "600 VICENTE ST",
+  "street_name" : "VICENTE",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.473601",
+    "latitude" : "37.739871",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Margolis & Tisman LLP and multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "601 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403527",
+    "latitude" : "37.794836",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bite Me Sandwiches",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "601 SOUTH VAN NESS AVE",
+  "street_name" : "SOUTH VAN NESS",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417005",
+    "latitude" : "37.763458",
+    "human_address" : "{\"address\":\"SOUTH VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mau Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "665 VALENCIA ST",
+  "street_name" : "Valencia",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421347",
+    "latitude" : "37.76223",
+    "human_address" : "{\"address\":\"Valencia\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Centered Body Pilates",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "670 TEXAS ST",
+  "street_name" : "TEXAS ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395476",
+    "latitude" : "37.757917",
+    "human_address" : "{\"address\":\"TEXAS ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "California Historical Society",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "678 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40161525",
+    "latitude" : "37.78695752",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Limited Edition Speakeasy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "691 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403033",
+    "latitude" : "37.78741",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbucks",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "7 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40303321",
+    "latitude" : "37.78741044",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chai-Am Thai Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "701 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3990823",
+    "latitude" : "37.78318025",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Railroad Espresso",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "705 MONTEREY BLVD",
+  "street_name" : "Monterey",
+  "yr_installed" : "2013",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.451334",
+    "latitude" : "37.731258",
+    "human_address" : "{\"address\":\"Monterey\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Super Duper Burger",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "721 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.403905",
+    "latitude" : "37.786856",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fit Club",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "728 LA PLAYA",
+  "street_name" : "LA PLAYA",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.509795",
+    "latitude" : "37.774536",
+    "human_address" : "{\"address\":\"LA PLAYA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Graffeo Coffee Roasting Company",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "735 COLUMBUS AVE",
+  "street_name" : "COLUMBUS",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412033",
+    "latitude" : "37.801363",
+    "human_address" : "{\"address\":\"COLUMBUS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Shared LLC",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "739 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2013",
+  "mo_installed" : "12",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400934",
+    "latitude" : "37.776878",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Outfit Generic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "746 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421824",
+    "latitude" : "37.760957",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "748 VAN NESS AVE",
+  "street_name" : "Van Ness",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420163",
+    "latitude" : "37.782379",
+    "human_address" : "{\"address\":\"Van Ness\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Circus Center",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "755 FREDERICK ST",
+  "street_name" : "FREDERICK",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.456964",
+    "latitude" : "37.765548",
+    "human_address" : "{\"address\":\"FREDERICK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ocean View Dental",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "760 LA PLAYA",
+  "street_name" : "LA PLAYA",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.509795",
+    "latitude" : "37.774536",
+    "human_address" : "{\"address\":\"LA PLAYA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Epicenter Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "764 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399117",
+    "latitude" : "37.78165",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Subway / Camilo Riano D.D.S. / UPS Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "77 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41985",
+    "latitude" : "37.776063",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Patagonia",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "770 NORTH POINT ST",
+  "street_name" : "NORTH POINT",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419913",
+    "latitude" : "37.806013",
+    "human_address" : "{\"address\":\"NORTH POINT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "City Target / Starbucks / Active Apparel",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "789 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40355977",
+    "latitude" : "37.7847724",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Subway",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "795 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.400865",
+    "latitude" : "37.782057",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Santa Clara Organic Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "798 HAIGHT ST",
+  "street_name" : "SCOTT",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435226",
+    "latitude" : "37.771772",
+    "human_address" : "{\"address\":\"SCOTT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Bubbles / Verve Coffee",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "8 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422866",
+    "latitude" : "37.771874",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rock Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "80 29TH ST",
+  "street_name" : "29th St",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42207219",
+    "latitude" : "37.74414127",
+    "human_address" : "{\"address\":\"29th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Moscone West",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "800 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404874",
+    "latitude" : "37.78292",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Old Navy",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "801 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40567663",
+    "latitude" : "37.78499029",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Portrero Kids on Third",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "810 ILLINOIS ST",
+  "street_name" : "Illinois",
+  "yr_installed" : "2013",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.388119",
+    "latitude" : "37.761183",
+    "human_address" : "{\"address\":\"Illinois\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Electronic Frontier Foundation",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "815 EDDY ST",
+  "street_name" : "EDDY",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421505",
+    "latitude" : "37.782545",
+    "human_address" : "{\"address\":\"EDDY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Community Vocational Enterprises (CVE)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "818 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405083",
+    "latitude" : "37.784296",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "825 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40607076",
+    "latitude" : "37.78480269",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Diana Choy Hair Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "837 CABRILLO ST",
+  "street_name" : "CABRILLO",
+  "yr_installed" : "2013",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46786167",
+    "latitude" : "37.77503599",
+    "human_address" : "{\"address\":\"CABRILLO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jean Parker (SA) CDC",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "840 BROADWAY",
+  "street_name" : "BROADWAY",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411038",
+    "latitude" : "37.79762",
+    "human_address" : "{\"address\":\"BROADWAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Cabrillo Playground",
+  "spaces" : "5",
+  "racks" : "1",
+  "yr_inst" : "851 38TH AVE",
+  "street_name" : "39TH AVE",
+  "yr_installed" : "2013",
+  "mo_installed" : "10",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49870215",
+    "latitude" : "37.77286673",
+    "human_address" : "{\"address\":\"39TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Amnesia",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "853 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421068",
+    "latitude" : "37.759319",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Barber Lounge",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "854 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402698",
+    "latitude" : "37.781281",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Jamber",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "858 FOLSOM ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402668",
+    "latitude" : "37.781146",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wichcraft",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "868 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40614459",
+    "latitude" : "37.78410039",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mirtille Cafe",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "87 MCALLISTER ST",
+  "street_name" : "McAllister",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41327",
+    "latitude" : "37.7807",
+    "human_address" : "{\"address\":\"McAllister\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "88 SPEAR ST",
+  "street_name" : "SPEAR",
+  "yr_installed" : "2013",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.394593",
+    "latitude" : "37.792536",
+    "human_address" : "{\"address\":\"SPEAR\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Project 880",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "880 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401682",
+    "latitude" : "37.779613",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Anthropologie",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "880 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2013",
+  "mo_installed" : "11",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40742267",
+    "latitude" : "37.78511093",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fitwell Chiropractic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "900 NOE ST",
+  "street_name" : "NOE",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432344",
+    "latitude" : "37.754506",
+    "human_address" : "{\"address\":\"NOE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bernal Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "908 CORTLAND AVE",
+  "street_name" : "CORTLAND",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413614",
+    "latitude" : "37.738773",
+    "human_address" : "{\"address\":\"CORTLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Studio For Urban Projects",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "917 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404935",
+    "latitude" : "37.773799",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Hub and Intersection for the Arts",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "925 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406601",
+    "latitude" : "37.782154",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mochica Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "937 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40244",
+    "latitude" : "37.778167",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Commodore Stockton CDC (PreK & SA)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "949 WASHINGTON ST",
+  "street_name" : "WASHINGTON",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409055",
+    "latitude" : "37.794832",
+    "human_address" : "{\"address\":\"WASHINGTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UC Berkeley Extension",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "95 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40203",
+    "latitude" : "37.786554",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Barbary Coast",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "950 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2013",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407859",
+    "latitude" : "37.782056",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Michael the Boxer gym",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "96 LAFAYETTE ST",
+  "street_name" : "Lafayette",
+  "yr_installed" : "2013",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416617",
+    "latitude" : "37.77252",
+    "human_address" : "{\"address\":\"Lafayette\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Theresa S. Mahler CDC (PreK)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "990 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "2013",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.428095",
+    "latitude" : "37.755275",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Ellis - O'Farrell Garage",
+  "spaces" : "16",
+  "racks" : "8",
+  "yr_inst" : "123 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "2014",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40709853",
+    "latitude" : "37.78604121",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Magnolia Brewery",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "1398 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "2014",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.44512989",
+    "latitude" : "37.77040275",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Happy Donuts",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1455 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417466",
+    "latitude" : "37.775228",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "NEMA",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "18 10TH ST",
+  "street_name" : "JESSIE",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41725353",
+    "latitude" : "37.77583713",
+    "human_address" : "{\"address\":\"JESSIE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "NEMA",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "18 10TH ST",
+  "street_name" : "MARKET ST",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41725353",
+    "latitude" : "37.77583713",
+    "human_address" : "{\"address\":\"MARKET ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Mission Cliffs",
+  "spaces" : "54",
+  "racks" : "8",
+  "yr_inst" : "2295 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2014",
+  "mo_installed" : "4",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412334",
+    "latitude" : "37.760916",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Cliffs",
+  "spaces" : "21",
+  "racks" : "5",
+  "yr_inst" : "2295 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "2014",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412334",
+    "latitude" : "37.760916",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Sutter - Stockton Garage",
+  "spaces" : "16",
+  "racks" : "8",
+  "yr_inst" : "444 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "2014",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40674",
+    "latitude" : "37.790126",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Foundry Square / Specialty's Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396569",
+    "latitude" : "37.788423",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Foundry Square / Specialty's Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "500 HOWARD ST",
+  "street_name" : "01ST ST",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396569",
+    "latitude" : "37.788423",
+    "human_address" : "{\"address\":\"01ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Southern Pacific Brewing",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "620 TREAT AVE",
+  "street_name" : "TREAT",
+  "yr_installed" : "2014",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414118",
+    "latitude" : "37.760111",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Fifth & Mission Garage",
+  "spaces" : "32",
+  "racks" : "16",
+  "yr_inst" : "833 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2014",
+  "mo_installed" : "3",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405069",
+    "latitude" : "37.783371",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Urban Mercantile / Vierra & Friends",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "85 CARL ST",
+  "street_name" : "CARL",
+  "yr_installed" : "2014",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449515",
+    "latitude" : "37.765599",
+    "human_address" : "{\"address\":\"CARL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Littlejohn's Candies",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1422 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418218",
+    "latitude" : "37.77633",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dolan Law Firm",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1438 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418435",
+    "latitude" : "37.776235",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Urban Flow Yoga Studio",
+  "spaces" : "18",
+  "racks" : "9",
+  "yr_inst" : "1543 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "2014",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417716",
+    "latitude" : "37.773481",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "new development",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1800 VAN NESS AVE",
+  "street_name" : "CLAY",
+  "yr_installed" : "2014",
+  "mo_installed" : "8",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422292",
+    "latitude" : "37.792549",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Van Ness Keno Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "26 VAN NESS AVE",
+  "street_name" : "VAN NESS AVE",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41894663",
+    "latitude" : "37.77601157",
+    "human_address" : "{\"address\":\"VAN NESS AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "MASH Bike Shop",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "284 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "2014",
+  "mo_installed" : "6",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43121464",
+    "latitude" : "37.76453931",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Herbst Building (multiple)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "30 VAN NESS AVE",
+  "street_name" : "VAN NESS AVE",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41894663",
+    "latitude" : "37.77601157",
+    "human_address" : "{\"address\":\"VAN NESS AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Multicultural Preschool",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3300 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2014",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49429885",
+    "latitude" : "37.77609923",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Temple Baptist Church",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3355 19TH AVE",
+  "street_name" : "19TH AVE",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.47524078",
+    "latitude" : "37.72850208",
+    "human_address" : "{\"address\":\"19TH AVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Linea Caffe",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "3417 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "2014",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419761",
+    "latitude" : "37.761606",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hockey Haven",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3625 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2014",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49780137",
+    "latitude" : "37.77544462",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "rams",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3626 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2014",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49806316",
+    "latitude" : "37.77604248",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Balboa Theatre",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3630 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2014",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49798",
+    "latitude" : "37.7759",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Purusha Yoga",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3729 BALBOA ST",
+  "street_name" : "BALBOA",
+  "yr_installed" : "2014",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4988668",
+    "latitude" : "37.77539588",
+    "human_address" : "{\"address\":\"BALBOA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mango Medley",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3911 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50401726",
+    "latitude" : "37.76036449",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Karen Luu Home Couture ",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3927 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50430374",
+    "latitude" : "37.76024868",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "PARKLET",
+  "addr_num" : "Other Avenues Food Co-op",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "3930 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2014",
+  "mo_installed" : "7",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.504339",
+    "latitude" : "37.760742",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "FedEx",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "400 HOWARD ST",
+  "street_name" : "01ST ST",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39557475",
+    "latitude" : "37.78921535",
+    "human_address" : "{\"address\":\"01ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "300 Ivy",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "401 GROVE ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "2014",
+  "mo_installed" : "1",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42356",
+    "latitude" : "37.777492",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "H & B Day Spa",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4115 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50627378",
+    "latitude" : "37.76016159",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "PARKLET",
+  "addr_num" : "The Mill",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "736 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "2014",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4377161",
+    "latitude" : "37.77647298",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "RD",
+  "addr_num" : "Mission Cheese",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "736 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "2014",
+  "mo_installed" : "5",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421841",
+    "latitude" : "37.761128",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pharmaca Integrative Pharmacy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "925 COLE ST",
+  "street_name" : "COLE",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.450152",
+    "latitude" : "37.765296",
+    "human_address" : "{\"address\":\"COLE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Surfside Liquors / RFJ Inc (Meiswinke Company)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "936 INNES AVE",
+  "street_name" : "INNES",
+  "yr_installed" : "2014",
+  "mo_installed" : "9",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37646761",
+    "latitude" : "37.73271599",
+    "human_address" : "{\"address\":\"INNES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Zoo",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1 ZOO RD",
+  "street_name" : "SLOAT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50324",
+    "latitude" : "37.732909",
+    "human_address" : "{\"address\":\"SLOAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Art Institute of California",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1170 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414301",
+    "latitude" : "37.779497",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "24 Guerrero Cleaners",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1198 GUERRERO ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423204",
+    "latitude" : "37.752101",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Ellis - O'Farrell Garage",
+  "spaces" : "22",
+  "racks" : "11",
+  "yr_inst" : "123 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40709853",
+    "latitude" : "37.78604121",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Garfield Square",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1271 TREAT AVE",
+  "street_name" : "HARRISON",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41223561",
+    "latitude" : "37.75020058",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Circle Community Acupuncture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1351 HARRISON ST",
+  "street_name" : "HARRISON",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410613",
+    "latitude" : "37.771865",
+    "human_address" : "{\"address\":\"HARRISON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fancy Wheat Field Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1362 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408421",
+    "latitude" : "37.798432",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Advance English Academy",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1370 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415736",
+    "latitude" : "37.775738",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "St. James Infirmary",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1372 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41573603",
+    "latitude" : "37.77573822",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Fox Plaza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1390 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417361",
+    "latitude" : "37.777224",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Polk Street Boxing Gym",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1436 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420299",
+    "latitude" : "37.790266",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Henry Gertmenian Co.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1449 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41617827",
+    "latitude" : "37.77458318",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "California Institute of Integral Studies",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1453 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416178",
+    "latitude" : "37.774583",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Pool",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "159 LINDA ST",
+  "street_name" : "LINDA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42238751",
+    "latitude" : "37.75930484",
+    "human_address" : "{\"address\":\"LINDA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Gaslamp",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1599 HOWARD ST",
+  "street_name" : "12TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41655",
+    "latitude" : "37.771759",
+    "human_address" : "{\"address\":\"12TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Japan Center Garage",
+  "spaces" : "44",
+  "racks" : "22",
+  "yr_inst" : "1610 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43038",
+    "latitude" : "37.784969",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Zuni Cafe",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1658 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42160815",
+    "latitude" : "37.77359976",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1899 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433703",
+    "latitude" : "37.786758",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1899 FILLMORE ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433703",
+    "latitude" : "37.786758",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Hamilton Recreation Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2001 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43632248",
+    "latitude" : "37.78437828",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Davies Symphony Hall",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "201 VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419994",
+    "latitude" : "37.777441",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Stop Aids Project",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2128 15TH ST",
+  "street_name" : "15TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.431783",
+    "latitude" : "37.766197",
+    "human_address" : "{\"address\":\"15TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Greens Sports Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2239 POLK ST",
+  "street_name" : "POLK",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422361",
+    "latitude" : "37.797548",
+    "human_address" : "{\"address\":\"POLK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clay Theatre",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2261 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43448",
+    "latitude" : "37.790456",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Golden Gateway Garage",
+  "spaces" : "16",
+  "racks" : "8",
+  "yr_inst" : "250 CLAY ST",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39849",
+    "latitude" : "37.795701",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Golden Gateway Garage",
+  "spaces" : "50",
+  "racks" : "25",
+  "yr_inst" : "250 CLAY ST",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39849",
+    "latitude" : "37.795701",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Foreign Cinema",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2534 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419261",
+    "latitude" : "37.756388",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pop's Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2800 24TH ST",
+  "street_name" : "YORK",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40839866",
+    "latitude" : "37.75303805",
+    "human_address" : "{\"address\":\"YORK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Theater of Yugen",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2840 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411751",
+    "latitude" : "37.763583",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Victoria Theater",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2961 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418865",
+    "latitude" : "37.764859",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Safeway",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "298 KING ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393418",
+    "latitude" : "37.777642",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Beacon",
+  "spaces" : "7",
+  "racks" : "7",
+  "yr_inst" : "298 KING ST",
+  "street_name" : "KING",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393418",
+    "latitude" : "37.777642",
+    "human_address" : "{\"address\":\"KING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Mission Library",
+  "spaces" : "5",
+  "racks" : "1",
+  "yr_inst" : "300 BARTLETT ST",
+  "street_name" : "BARTLETT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41984109",
+    "latitude" : "37.75197155",
+    "human_address" : "{\"address\":\"BARTLETT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "mulitple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 DE HARO ST",
+  "street_name" : "DE HARO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402024",
+    "latitude" : "37.765725",
+    "human_address" : "{\"address\":\"DE HARO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Potrero Depot Cleaners",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 DE HARO ST",
+  "street_name" : "DE HARO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402024",
+    "latitude" : "37.765725",
+    "human_address" : "{\"address\":\"DE HARO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Center for the Book",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 DE HARO ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402024",
+    "latitude" : "37.765725",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Francisco Zen Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "300 PAGE ST",
+  "street_name" : "PAGE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.426055",
+    "latitude" : "37.773884",
+    "human_address" : "{\"address\":\"PAGE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Southern Exposure",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3030 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411282",
+    "latitude" : "37.759325",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Atlas Cafe",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "3049 20TH ST",
+  "street_name" : "20th St",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411406",
+    "latitude" : "37.758862",
+    "human_address" : "{\"address\":\"20th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Philz Coffee",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "3101 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414265",
+    "latitude" : "37.75233",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Escape from New York Pizza",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3242 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419552",
+    "latitude" : "37.755527",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Laughing Lotus Yoga Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3271 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425599",
+    "latitude" : "37.764434",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Union Square",
+  "spaces" : "28",
+  "racks" : "14",
+  "yr_inst" : "333 POST ST",
+  "street_name" : "POST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4075",
+    "latitude" : "37.787931",
+    "human_address" : "{\"address\":\"POST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ike's Place",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3489 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43057",
+    "latitude" : "37.764158",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ODC Dance Commons",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "351 SHOTWELL ST",
+  "street_name" : "SHOTWELL",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.415843",
+    "latitude" : "37.762811",
+    "human_address" : "{\"address\":\"SHOTWELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Critter Salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3579 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425616",
+    "latitude" : "37.762899",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Delfina",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3621 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424189",
+    "latitude" : "37.761362",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "LyttleáChiropractic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3705 17TH ST",
+  "street_name" : "17TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.428727",
+    "latitude" : "37.762696",
+    "human_address" : "{\"address\":\"17TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Judahlicious",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3906 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.504083",
+    "latitude" : "37.760685",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Boxing Room",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "399 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422764",
+    "latitude" : "37.777604",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Boxing Room",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "399 GROVE ST",
+  "street_name" : "GOUGH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422764",
+    "latitude" : "37.777604",
+    "human_address" : "{\"address\":\"GOUGH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Academy of Art University",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "410 BUSH ST",
+  "street_name" : "BUSH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404547",
+    "latitude" : "37.79117",
+    "human_address" : "{\"address\":\"BUSH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Toad Hall",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4146 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435902",
+    "latitude" : "37.761028",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chase Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "425 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401353",
+    "latitude" : "37.792796",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "St. Mary's Square Garage",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "433 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404471",
+    "latitude" : "37.791848",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "St. Mary's Square Garage",
+  "spaces" : "28",
+  "racks" : "14",
+  "yr_inst" : "433 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404471",
+    "latitude" : "37.791848",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flying Pig Bistro",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "433 SOUTH VAN NESS AVE",
+  "street_name" : "VAN NESS",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41724",
+    "latitude" : "37.766356",
+    "human_address" : "{\"address\":\"VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Sutter - Stockton Garage",
+  "spaces" : "64",
+  "racks" : "32",
+  "yr_inst" : "444 STOCKTON ST",
+  "street_name" : "STOCKTON",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40674",
+    "latitude" : "37.790126",
+    "human_address" : "{\"address\":\"STOCKTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oxenrose salon",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "448 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424119",
+    "latitude" : "37.777885",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Whole Foods",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "450 RHODE ISLAND ST",
+  "street_name" : "RHODE ISLAND",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402987",
+    "latitude" : "37.764113",
+    "human_address" : "{\"address\":\"RHODE ISLAND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Mission Bay Parks Maintenance Facility",
+  "spaces" : "16",
+  "racks" : "2",
+  "yr_inst" : "451 BERRY ST",
+  "street_name" : "BERRY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398",
+    "latitude" : "37.771499",
+    "human_address" : "{\"address\":\"BERRY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dolores Park Church",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "455 DOLORES ST",
+  "street_name" : "DOLORES",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425754",
+    "latitude" : "37.762078",
+    "human_address" : "{\"address\":\"DOLORES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Village Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4555 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.466506",
+    "latitude" : "37.784511",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Madrone Lounge",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "500 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437364",
+    "latitude" : "37.774222",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bayview Library Branch",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5075 03RD ST",
+  "street_name" : "REVERE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391023",
+    "latitude" : "37.732453",
+    "human_address" : "{\"address\":\"REVERE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bayview Library Branch",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "5075 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391023",
+    "latitude" : "37.732453",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "555 FULTON ST",
+  "street_name" : "FULTON",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.425752",
+    "latitude" : "37.778168",
+    "human_address" : "{\"address\":\"FULTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bazaar Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5927 CALIFORNIA ST",
+  "street_name" : "CALIFORNIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.481196",
+    "latitude" : "37.783825",
+    "human_address" : "{\"address\":\"CALIFORNIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Chase Bank",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "595 MARKET ST",
+  "street_name" : "02ND ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40082628",
+    "latitude" : "37.78918225",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ThirstyBear Brewing",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "661 HOWARD ST ",
+  "street_name" : "KAPLAN",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399599",
+    "latitude" : "37.785486",
+    "human_address" : "{\"address\":\"KAPLAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "ThirstyBear Brewing",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "661 HOWARD ST ",
+  "street_name" : "HOWARD",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399599",
+    "latitude" : "37.785486",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Amore Animal Supply",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "696 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421906",
+    "latitude" : "37.761813",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Velo Rouge Cafe",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "798 ARGUELLO BLVD",
+  "street_name" : "ARGUELLO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.458102",
+    "latitude" : "37.775411",
+    "human_address" : "{\"address\":\"ARGUELLO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Fifth & Mission Garage",
+  "spaces" : "24",
+  "racks" : "12",
+  "yr_inst" : "833 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405069",
+    "latitude" : "37.783371",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "SFPD Southern Station",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "850 BRYANT ST",
+  "street_name" : "BRYANT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404389",
+    "latitude" : "37.775398",
+    "human_address" : "{\"address\":\"BRYANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Potrero Del Sol Park",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "None",
+  "street_name" : "SAN BRUNO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40437",
+    "latitude" : "37.751",
+    "human_address" : "{\"address\":\"SAN BRUNO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Caltrain",
+  "spaces" : "18",
+  "racks" : "9",
+  "yr_inst" : "None",
+  "street_name" : "22ND ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39237",
+    "latitude" : "37.75741",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Caltrain",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "None",
+  "street_name" : "IOWA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39237",
+    "latitude" : "37.75741",
+    "human_address" : "{\"address\":\"IOWA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1 BUSH ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4001",
+    "latitude" : "37.790922",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "1 Embarcadero Center",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "1 EMBARCADERO CENTER",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3996443",
+    "latitude" : "37.79464385",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Bank of America / SFMTA Headquarters",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "1 SOUTH VAN NESS AVE",
+  "street_name" : "11TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418581",
+    "latitude" : "37.774862",
+    "human_address" : "{\"address\":\"11TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Starbucks",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "100 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46748",
+    "latitude" : "37.739698",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Oriental Restaurant",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1063 MARKET ST",
+  "street_name" : "MARKET ",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41137025",
+    "latitude" : "37.78083821",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lucca Raviola",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1100 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42121",
+    "latitude" : "37.755171",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Apt/UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1128 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4212",
+    "latitude" : "37.754682",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1132 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4212",
+    "latitude" : "37.754682",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Galileo HS",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "1150 FRANCISCO ST",
+  "street_name" : "FRANCISCO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424145",
+    "latitude" : "37.80379",
+    "human_address" : "{\"address\":\"FRANCISCO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1189 POTRERO",
+  "street_name" : "24TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.406054",
+    "latitude" : "37.753324",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1200 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.410565",
+    "latitude" : "37.775075",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "The Packaging Store",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "1255 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.412145",
+    "latitude" : "37.775324",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dainese",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "131 SOUTH VAN NESS AVE",
+  "street_name" : "S VAN NESS",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417635",
+    "latitude" : "37.771343",
+    "human_address" : "{\"address\":\"S VAN NESS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Farley's",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1315 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395966",
+    "latitude" : "37.762452",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "vacant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1321 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41476071",
+    "latitude" : "37.77599625",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1351 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434207",
+    "latitude" : "37.778034",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Garcia & Maggini Co.",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "136 KING ST",
+  "street_name" : "KING",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.390656",
+    "latitude" : "37.7793",
+    "human_address" : "{\"address\":\"KING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1363 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43958",
+    "latitude" : "37.782233",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dutailier",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1365 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420222",
+    "latitude" : "37.751155",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Speesees",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1415 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.420131",
+    "latitude" : "37.750206",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "146 GRANT AVE",
+  "street_name" : "GRANT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405187",
+    "latitude" : "37.788271",
+    "human_address" : "{\"address\":\"GRANT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1496 MARKET ST",
+  "street_name" : "MARKET ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41894663",
+    "latitude" : "37.77601157",
+    "human_address" : "{\"address\":\"MARKET ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Yoga Tree / World Gym",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1500 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402094",
+    "latitude" : "37.766772",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bagel Bakery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "151 TOWNSEND ST",
+  "street_name" : "TOWNSEND",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391369",
+    "latitude" : "37.779252",
+    "human_address" : "{\"address\":\"TOWNSEND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Lakeshore Plaza Shopping Center / Lucky Supermarket",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1515 SLOAT BLVD",
+  "street_name" : "SLOAT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.48958593",
+    "latitude" : "37.73300635",
+    "human_address" : "{\"address\":\"SLOAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Boylesque, Mama Calizo's Voice Factory & Center for Sex & Culture",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1519 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.417333",
+    "latitude" : "37.773654",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Lakeshore Plaza Shopping Center / Big 5 Sporting Goods",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1533 SLOAT BLVD",
+  "street_name" : "SLOAT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.49073763",
+    "latitude" : "37.73293973",
+    "human_address" : "{\"address\":\"SLOAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "156 02ND ST",
+  "street_name" : "02ND ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39910114",
+    "latitude" : "37.78709891",
+    "human_address" : "{\"address\":\"02ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Manora's Thai Cuisine",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1600 FOLSOM ST",
+  "street_name" : "FOLSOM",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41529",
+    "latitude" : "37.770842",
+    "human_address" : "{\"address\":\"FOLSOM\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Potrero Hill Library",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1616 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.397664",
+    "latitude" : "37.760136",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Golden Produce Market",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "172 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429378",
+    "latitude" : "37.768171",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Second Act",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1727 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45120594",
+    "latitude" : "37.76920959",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pomelo",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1793 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42634705",
+    "latitude" : "37.74235375",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "LGBT Community Center",
+  "spaces" : "6",
+  "racks" : "1",
+  "yr_inst" : "1800 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42402831",
+    "latitude" : "37.77177761",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "United States Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "1800 TARAVAL ST",
+  "street_name" : "TARAVAL",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.485617",
+    "latitude" : "37.742861",
+    "human_address" : "{\"address\":\"TARAVAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Post Office",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "1849 GEARY BLVD",
+  "street_name" : "GEARY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43351",
+    "latitude" : "37.783829",
+    "human_address" : "{\"address\":\"GEARY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Harvest Urban Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "191 08TH ST",
+  "street_name" : "08TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.411474",
+    "latitude" : "37.776808",
+    "human_address" : "{\"address\":\"08TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "2 Embarcadero Center",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "2 EMBARCADERO CENTER",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.398749",
+    "latitude" : "37.795022",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Lombard Garage",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2055 LOMBARD ST",
+  "street_name" : "LOMBARD",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.435151",
+    "latitude" : "37.799695",
+    "human_address" : "{\"address\":\"LOMBARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Borders",
+  "spaces" : "3",
+  "racks" : "3",
+  "yr_inst" : "210 KING ST",
+  "street_name" : "KING",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.393425",
+    "latitude" : "37.777627",
+    "human_address" : "{\"address\":\"KING\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "US Post Office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2111 LANE ST",
+  "street_name" : "LANE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.392295",
+    "latitude" : "37.728788",
+    "human_address" : "{\"address\":\"LANE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "214 TOWNSEND ST",
+  "street_name" : "TOWNSEND",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39365",
+    "latitude" : "37.779097",
+    "human_address" : "{\"address\":\"TOWNSEND\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lucky 13 Bar",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2140 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429876",
+    "latitude" : "37.767194",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "vacant",
+  "spaces" : "6",
+  "racks" : "3",
+  "yr_inst" : "22 OAK ST",
+  "street_name" : "OAK",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41986139",
+    "latitude" : "37.77563611",
+    "human_address" : "{\"address\":\"OAK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Eye Research Institute, Smith-Kettlewell",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2318 FILLMORE ST",
+  "street_name" : "FILLMORE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43391",
+    "latitude" : "37.791185",
+    "human_address" : "{\"address\":\"FILLMORE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SFI Windows & Cabinets?",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2450 SAN BRUNO AVE",
+  "street_name" : "SAN BRUNO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405302",
+    "latitude" : "37.731022",
+    "human_address" : "{\"address\":\"SAN BRUNO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "San Francisco General Hospital",
+  "spaces" : "40",
+  "racks" : "20",
+  "yr_inst" : "2501 23RD ST",
+  "street_name" : "23RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38764896",
+    "latitude" : "37.75671731",
+    "human_address" : "{\"address\":\"23RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Slow Club",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "2501 MARIPOSA ST",
+  "street_name" : "MARIPOSA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408549",
+    "latitude" : "37.762781",
+    "human_address" : "{\"address\":\"MARIPOSA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Moscone Garage",
+  "spaces" : "24",
+  "racks" : "12",
+  "yr_inst" : "255 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.399367",
+    "latitude" : "37.784712",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2797 UNION ST",
+  "street_name" : "UNION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.445202",
+    "latitude" : "37.795672",
+    "human_address" : "{\"address\":\"UNION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "China Express",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2798 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.418804",
+    "latitude" : "37.752399",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "John's Ocean Beach Cafe",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "2898 SLOAT BLVD",
+  "street_name" : "SLOAT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.504737",
+    "latitude" : "37.735854",
+    "human_address" : "{\"address\":\"SLOAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Makli Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "290 SANCHEZ ST",
+  "street_name" : "SANCHEZ",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43121464",
+    "latitude" : "37.76453931",
+    "human_address" : "{\"address\":\"SANCHEZ\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "293 08TH ST",
+  "street_name" : "08TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4100742",
+    "latitude" : "37.77529618",
+    "human_address" : "{\"address\":\"08TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "3 Embarcadero Center",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "3 EMBARCADERO CENTER",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396014",
+    "latitude" : "37.795132",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "300 MONTGOMERY ST",
+  "street_name" : "MONTGOMERY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.402385",
+    "latitude" : "37.792346",
+    "human_address" : "{\"address\":\"MONTGOMERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "San Miguel CDC (PreK & SA)",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "300 SENECA AVE",
+  "street_name" : "SENECA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.444903",
+    "latitude" : "37.721716",
+    "human_address" : "{\"address\":\"SENECA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Esoterica Gitana",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3047 24TH ST",
+  "street_name" : "TREAT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41276053",
+    "latitude" : "37.7523877",
+    "human_address" : "{\"address\":\"TREAT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Porque Ninos Unidos",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3070 23RD ST",
+  "street_name" : "23RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41343828",
+    "latitude" : "37.75432882",
+    "human_address" : "{\"address\":\"23RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Pedal Revolution",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3085 21ST ST",
+  "street_name" : "21ST ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.416208",
+    "latitude" : "37.757018",
+    "human_address" : "{\"address\":\"21ST ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Career Link Center",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3120 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419449",
+    "latitude" : "37.747648",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Sam's Shoe Service",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3135 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422665",
+    "latitude" : "37.76465",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Candystore Collective",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3153 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423201",
+    "latitude" : "37.764618",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Artist Xchange",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3169 16TH ST",
+  "street_name" : "16TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42364107",
+    "latitude" : "37.76452199",
+    "human_address" : "{\"address\":\"16TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Liqour Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "320 11TH ST",
+  "street_name" : "11TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.413686",
+    "latitude" : "37.771281",
+    "human_address" : "{\"address\":\"11TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Lolo",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "3234 22ND ST",
+  "street_name" : "22ND ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.419552",
+    "latitude" : "37.755527",
+    "human_address" : "{\"address\":\"22ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "People's Gallery",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3289 20TH ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.414368",
+    "latitude" : "37.758745",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nomadic Arts Home Furnishings",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "342 09TH ST",
+  "street_name" : "09TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41125773",
+    "latitude" : "37.77312003",
+    "human_address" : "{\"address\":\"09TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe St. Jorge",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3438 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422726",
+    "latitude" : "37.741668",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Civic Center Garage",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "355 MCALLISTER ST",
+  "street_name" : "MCALLISTER",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.4176",
+    "latitude" : "37.77948",
+    "human_address" : "{\"address\":\"MCALLISTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Mission Playground ",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3555 19TH ST",
+  "street_name" : "19TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42238751",
+    "latitude" : "37.75930484",
+    "human_address" : "{\"address\":\"19TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Performing Arts Garage",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "360 GROVE ST",
+  "street_name" : "GROVE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422523",
+    "latitude" : "37.77818",
+    "human_address" : "{\"address\":\"GROVE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bi-Rite Market",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3639 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42468",
+    "latitude" : "37.761285",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dolores Park Chiropractic",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3689 18TH ST",
+  "street_name" : "18TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42571074",
+    "latitude" : "37.76132014",
+    "human_address" : "{\"address\":\"18TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Bayview Plaza",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3801 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.387432",
+    "latitude" : "37.74194",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Beach Burrito",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3914 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.504083",
+    "latitude" : "37.760685",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wild Card",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3979 17TH ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.434608",
+    "latitude" : "37.762294",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Green 11",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3980 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43144399",
+    "latitude" : "37.75169759",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "3984 24TH ST",
+  "street_name" : "24TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43144399",
+    "latitude" : "37.75169759",
+    "human_address" : "{\"address\":\"24TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "4 Embarcadero Center",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "4 EMBARCADERO CENTER",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396318",
+    "latitude" : "37.79496",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "UK",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "400 CASTRO ST",
+  "street_name" : "CASTRO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43539073",
+    "latitude" : "37.7621948",
+    "human_address" : "{\"address\":\"CASTRO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wo's Restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4005 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.50501898",
+    "latitude" : "37.76025201",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Christopher Elbow Artisan Chocolates",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "401 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423128",
+    "latitude" : "37.776717",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Celia's By the Beach",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4019 JUDAH ST",
+  "street_name" : "JUDAH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.5052048",
+    "latitude" : "37.76024379",
+    "human_address" : "{\"address\":\"JUDAH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "Everett Middle School",
+  "spaces" : "20",
+  "racks" : "10",
+  "yr_inst" : "450 CHURCH ST",
+  "street_name" : "CHURCH",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.429646",
+    "latitude" : "37.763542",
+    "human_address" : "{\"address\":\"CHURCH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Clothes Contact",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "473 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421747",
+    "latitude" : "37.765412",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Positive Directiond Equals Change",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4744 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.390942",
+    "latitude" : "37.73512",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "478 OFARRELL ST",
+  "street_name" : "O'FARRELL",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.41240323",
+    "latitude" : "37.78614584",
+    "human_address" : "{\"address\":\"O'FARRELL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "dental office",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "48 VICENTE ST",
+  "street_name" : "VICENTE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.46663096",
+    "latitude" : "37.73972768",
+    "human_address" : "{\"address\":\"VICENTE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flipper's restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "482 HAYES ST",
+  "street_name" : "HAYES",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.424351",
+    "latitude" : "37.776915",
+    "human_address" : "{\"address\":\"HAYES\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Ebony Beauty Supply",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "4820 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391116",
+    "latitude" : "37.734589",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "dreamers & make believers salon",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "487 14TH ST",
+  "street_name" : "14TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423994",
+    "latitude" : "37.767863",
+    "human_address" : "{\"address\":\"14TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "LOT",
+  "addr_num" : "West Portal Elementary School / GLO (Growth and Learning Opportunities)",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "5 LENOX WAY",
+  "street_name" : "CLAREMONT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.464349",
+    "latitude" : "37.742874",
+    "human_address" : "{\"address\":\"CLAREMONT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Money Mart",
+  "spaces" : "8",
+  "racks" : "4",
+  "yr_inst" : "500 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42216",
+    "latitude" : "37.764664",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "K & H Liquors",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "501 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421889",
+    "latitude" : "37.764909",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mariachi's Taqueria (CLOSED)",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "508 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42216",
+    "latitude" : "37.764664",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Five & Diamond",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "510 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42216",
+    "latitude" : "37.764664",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Golden City Chinese Cuisine",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "5131 03RD ST",
+  "street_name" : "03RD ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.391394",
+    "latitude" : "37.731846",
+    "human_address" : "{\"address\":\"03RD ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Citi Beauty Skin Care ",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "518 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43734337",
+    "latitude" : "37.77443226",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Limon Rotisserie",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "524 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422136",
+    "latitude" : "37.764415",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Thai House 530",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "530 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422128",
+    "latitude" : "37.764333",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "543 HOWARD ST",
+  "street_name" : "HOWARD",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.396773",
+    "latitude" : "37.787654",
+    "human_address" : "{\"address\":\"HOWARD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Puero Alegre restaurant",
+  "spaces" : "14",
+  "racks" : "7",
+  "yr_inst" : "546 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422109",
+    "latitude" : "37.764138",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "residential",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "547 CLAYTON ST",
+  "street_name" : "CLAYTON",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.449007",
+    "latitude" : "37.770395",
+    "human_address" : "{\"address\":\"CLAYTON\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Victoria Manalo Draves Park",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "55 SHERMAN ST",
+  "street_name" : "SHERMAN",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40658",
+    "latitude" : "37.77705",
+    "human_address" : "{\"address\":\"SHERMAN\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Roland Feller - Violin Makers ",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "551 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43802516",
+    "latitude" : "37.77469343",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Curtis Hotel",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "559 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421505",
+    "latitude" : "37.76401",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Nopa",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "560 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.437469",
+    "latitude" : "37.774834",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Wo Hing General Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "584 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422059",
+    "latitude" : "37.763612",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "El Toro Taqueria",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "598 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422043",
+    "latitude" : "37.763448",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "600 MARKET ST",
+  "street_name" : "MARKET ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40257457",
+    "latitude" : "37.78877874",
+    "human_address" : "{\"address\":\"MARKET ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Vickie's Boutique",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "603 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.43221602",
+    "latitude" : "37.77164647",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Vapor Room Cooperative",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "607 HAIGHT ST",
+  "street_name" : "HAIGHT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432311",
+    "latitude" : "37.771634",
+    "human_address" : "{\"address\":\"HAIGHT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SFPD Mission Station",
+  "spaces" : "12",
+  "racks" : "6",
+  "yr_inst" : "630 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422005",
+    "latitude" : "37.762848",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Balmoral Hotel",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "646 CLAY ST",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404007",
+    "latitude" : "37.794582",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Plant It Earth Store",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "661 DIVISADERO ST",
+  "street_name" : "DIVISADERO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.438287",
+    "latitude" : "37.775744",
+    "human_address" : "{\"address\":\"DIVISADERO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Balmoral Hotel North #2",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "668 CLAY ST",
+  "street_name" : "CLAY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.404269",
+    "latitude" : "37.794741",
+    "human_address" : "{\"address\":\"CLAY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "4",
+  "racks" : "2",
+  "yr_inst" : "670 04TH ST",
+  "street_name" : "04TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.395578",
+    "latitude" : "37.777233",
+    "human_address" : "{\"address\":\"04TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flywheel Coffee Roasters",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "672 STANYAN ST",
+  "street_name" : "STANYAN ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.45332652",
+    "latitude" : "37.76970723",
+    "human_address" : "{\"address\":\"STANYAN ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Glen Park Hardware",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "685 CHENERY ST",
+  "street_name" : "CHENERY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.433618",
+    "latitude" : "37.73435",
+    "human_address" : "{\"address\":\"CHENERY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "A G Ferrari Foods",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "688 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.401815",
+    "latitude" : "37.786724",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "688 SAN JOSE AVE",
+  "street_name" : "SAN JOSE",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.422896",
+    "latitude" : "37.744182",
+    "human_address" : "{\"address\":\"SAN JOSE\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Taqueria El Buen Sabor",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "699 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421482",
+    "latitude" : "37.761839",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Rochester Big & Tall",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "700 MISSION ST",
+  "street_name" : "MISSION",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40253249",
+    "latitude" : "37.7862061",
+    "human_address" : "{\"address\":\"MISSION\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "Portsmouth Garage",
+  "spaces" : "26",
+  "racks" : "13",
+  "yr_inst" : "733 KEARNY ST",
+  "street_name" : "KEARNY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.405351",
+    "latitude" : "37.794835",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "GA",
+  "addr_num" : "North Beach Garage",
+  "spaces" : "20",
+  "racks" : "10",
+  "yr_inst" : "735 VALLEJO ST",
+  "street_name" : "VALLEJO",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.409527",
+    "latitude" : "37.798305",
+    "human_address" : "{\"address\":\"VALLEJO\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Walgreens",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "746 CLEMENT ST",
+  "street_name" : "CLEMENT",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.467376",
+    "latitude" : "37.783071",
+    "human_address" : "{\"address\":\"CLEMENT\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cha-Ya restaurant",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "762 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421787",
+    "latitude" : "37.760753",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Mission Bicycle Company",
+  "spaces" : "10",
+  "racks" : "5",
+  "yr_inst" : "766 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421795",
+    "latitude" : "37.760649",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "multiple",
+  "spaces" : "18",
+  "racks" : "9",
+  "yr_inst" : "777 VALENCIA ST",
+  "street_name" : "VALENCIA",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.421188",
+    "latitude" : "37.760565",
+    "human_address" : "{\"address\":\"VALENCIA\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Flood Building",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "870 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.407423",
+    "latitude" : "37.785111",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "888 TURK ST",
+  "street_name" : "TURK",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423645",
+    "latitude" : "37.781878",
+    "human_address" : "{\"address\":\"TURK\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Squat & Gobble",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "9 WEST PORTAL AVE",
+  "street_name" : "WEST PORTAL",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.465765",
+    "latitude" : "37.740587",
+    "human_address" : "{\"address\":\"WEST PORTAL\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Dog Eared Books",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "900 VALENCIA ST",
+  "street_name" : "20TH ST",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.42152025",
+    "latitude" : "37.75825474",
+    "human_address" : "{\"address\":\"20TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "91 WALTER ST",
+  "street_name" : "WALTER",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.432136",
+    "latitude" : "37.767817",
+    "human_address" : "{\"address\":\"WALTER\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "Cafe Zoetrope",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "916 KEARNY",
+  "street_name" : "KEARNY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.40502124",
+    "latitude" : "37.79653486",
+    "human_address" : "{\"address\":\"KEARNY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "SF Gov Offices: Senior Developments",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "939 EDDY ST",
+  "street_name" : "EDDY",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.423112",
+    "latitude" : "37.782316",
+    "human_address" : "{\"address\":\"EDDY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "placement" : "SW",
+  "addr_num" : "UK",
+  "spaces" : "2",
+  "racks" : "1",
+  "yr_inst" : "945 MARKET ST",
+  "street_name" : "MARKET",
+  "yr_installed" : "UK",
+  "mo_installed" : "UK",
+  "latitude" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.408778",
+    "latitude" : "37.782887",
+    "human_address" : "{\"address\":\"MARKET\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
  ]
